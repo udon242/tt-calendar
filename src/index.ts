@@ -18,8 +18,11 @@ server.get('/ttsaitama', opts, async () => {
 const start = async () => {
   try {
     await server.listen(8080, '0.0.0.0');
+    const address = server.server.address();
+    const port = typeof address === 'string' ? address : address?.port;
+    server.log.info(`Server started. port=${port}}`);
   } catch (err) {
-    server.log.error(err);
+    server.log.error(`Server launch error. err=${JSON.stringify(err)}`);
     process.exit(1);
   }
 };
