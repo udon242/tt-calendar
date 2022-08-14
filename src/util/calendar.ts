@@ -4,5 +4,11 @@ export const convertEventDate = (
   dateStr: string
 ): [number, number, number, number, number] => {
   const date = dayjs(dateStr).add(-9, 'hour');
-  return [date.year(), date.month(), date.day(), date.hour(), date.minute()];
+  return [
+    date.year(),
+    date.month() + 1,
+    date.date(),
+    date.hour(),
+    date.minute(),
+  ];
 };
