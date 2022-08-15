@@ -79,6 +79,48 @@ const schedules: Schedule[] = [
     location: '和光市民文化センターサンアゼリア',
     undecided: true,
   },
+  {
+    title: '彩たま - 琉球',
+    start: '20230107',
+    location: '仙台市宮城野体育館',
+    undecided: true,
+  },
+  {
+    title: '岡山 - 彩たま',
+    start: '20230204',
+    location: '福田公園体育館',
+    undecided: true,
+  },
+  {
+    title: 'KM東京 - 彩たま',
+    start: '20230211',
+    location: 'カルッツかわさき',
+    undecided: true,
+  },
+  {
+    title: '琉球 - 彩たま',
+    start: '20230212',
+    location: '沖縄アリーナ',
+    undecided: true,
+  },
+  {
+    title: '彩たま - 岡山',
+    start: '20230218',
+    location: 'あいハウジングアリーナ松元',
+    undecided: true,
+  },
+  {
+    title: '彩たま - 琉球',
+    start: '20230225',
+    location: '久喜市総合体育館',
+    undecided: true,
+  },
+  {
+    title: '彩たま - KM東京',
+    start: '20230226',
+    location: '久喜市総合体育館',
+    undecided: true,
+  },
 ];
 
 const CALENDAR_NAME = 'T.T彩たま 日程';
