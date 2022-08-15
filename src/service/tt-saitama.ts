@@ -49,6 +49,36 @@ const schedules: Schedule[] = [
     location: 'SAGAプラザ総合体育館',
     undecided: true,
   },
+  {
+    title: '岡山 - 彩たま',
+    start: '20221126',
+    location: '笠岡総合体育館',
+    undecided: true,
+  },
+  {
+    title: '琉球 - 彩たま',
+    start: '20221217',
+    location: '那覇市民体育館',
+    undecided: true,
+  },
+  {
+    title: '彩たま - KM東京',
+    start: '20221223',
+    location: '和光市民文化センターサンアゼリア',
+    undecided: true,
+  },
+  {
+    title: '彩たま - 岡山',
+    start: '20221224',
+    location: '和光市民文化センターサンアゼリア',
+    undecided: true,
+  },
+  {
+    title: '彩たま - KM東京',
+    start: '20221225',
+    location: '和光市民文化センターサンアゼリア',
+    undecided: true,
+  },
 ];
 
 const CALENDAR_NAME = 'T.T彩たま 日程';
