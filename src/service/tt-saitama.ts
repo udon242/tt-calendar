@@ -16,7 +16,7 @@ const schedules: Schedule[] = [
   {
     title: '彩たま - 岡山',
     start: '202209231300',
-    location: '大田区総合体育館',
+    location: '浦和駒場体育館',
   },
   {
     title: '彩たま - 琉球',
