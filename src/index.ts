@@ -4,6 +4,7 @@ import { getTTSaitamaSchedule } from './service/tt-saitama';
 import { getKMTokyoSchedule } from './service/km-tokyo';
 import { getOkayamaSchedule } from './service/okayama';
 import { getRyukyuSchedule } from './service/ryukyu';
+import { getKAKanagawaSchedule } from './service/ka-kanagawa';
 
 const server: FastifyInstance = Fastify({});
 const opts: RouteShorthandOptions = {
@@ -18,6 +19,7 @@ server.get('/ttsaitama', opts, async () => getTTSaitamaSchedule());
 server.get('/kmtokyo', opts, async () => getKMTokyoSchedule());
 server.get('/okayama', opts, async () => getOkayamaSchedule());
 server.get('/ryukyu', opts, async () => getRyukyuSchedule());
+server.get('/kakanagawa', opts, async () => getKAKanagawaSchedule());
 
 const start = async () => {
   try {
