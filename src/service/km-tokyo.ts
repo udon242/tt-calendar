@@ -128,7 +128,7 @@ const schedules: Schedule[] = [
   },
 ];
 
-const CALENDAR_NAME = 'T.T彩たま 日程';
+const CALENDAR_NAME = '木下マイスター東京 日程';
 
 const { value } = createEvents(
   schedules.map((schedule) => ({
