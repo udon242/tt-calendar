@@ -34,5 +34,5 @@ export const convertAllDayEventDate = (
 };
 
 export const isAllDayEvent = (dateStr: string) => {
-  return dateStr.length <= 6;
+  return dateStr.length <= 8;
 };
