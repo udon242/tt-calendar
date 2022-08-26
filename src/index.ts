@@ -13,7 +13,7 @@ const opts: RouteShorthandOptions = {
 };
 
 server.get('/ttsaitama', opts, async () => getTTSaitamaSchedule());
-server.get('/km-tokyo', opts, async () => getKMTokyoSchedule());
+server.get('/kmtokyo', opts, async () => getKMTokyoSchedule());
 
 const start = async () => {
   try {
