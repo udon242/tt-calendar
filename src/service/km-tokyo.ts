@@ -5,7 +5,7 @@ import scheduleAdapter from '../adapter/scheduleAdapter';
 
 const schedules: Schedule[] = [
   {
-    title: 'KM東京 - 彩たま',
+    title: 'KM東京 - TT彩たま',
     start: '202209101400',
     location: '大田区総合体育館',
   },
@@ -26,7 +26,7 @@ const schedules: Schedule[] = [
   },
   {
     start: '202209251700',
-    title: 'KM東京 - 彩たま',
+    title: 'KM東京 - TT彩たま',
     location: 'アリーナ立川立飛',
   },
   {
