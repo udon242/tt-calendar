@@ -9,37 +9,37 @@ import {
 
 const schedules: Schedule[] = [
   {
-    title: 'KM東京 - 彩たま',
+    title: 'KM東京 - TT彩たま',
     start: '202209101400',
     location: '大田区総合体育館',
   },
   {
-    title: '彩たま - 岡山',
+    title: 'TT彩たま - 岡山',
     start: '202209231300',
     location: '大田区総合体育館',
   },
   {
-    title: '彩たま - 琉球',
+    title: 'TT彩たま - 琉球',
     start: '202209241300',
     location: '浦和駒場体育館',
   },
   {
-    title: 'KM東京 - 彩たま',
+    title: 'KM東京 - TT彩たま',
     start: '202209251700',
     location: 'アリーナ立川立飛',
   },
   {
-    title: '岡山 - 彩たま',
+    title: '岡山 - TT彩たま',
     start: '202210081400',
     location: 'イオンモール岡山',
   },
   {
-    title: '彩たま - 琉球',
+    title: 'TT彩たま - 琉球',
     start: '202210221400',
     location: '深谷ビッグタートル',
   },
   {
-    title: '彩たま - 岡山',
+    title: 'TT彩たま - 岡山',
     start: '202210231400',
     location: '深谷ビッグタートル',
   },
