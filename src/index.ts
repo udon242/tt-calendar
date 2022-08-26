@@ -1,6 +1,7 @@
 import Fastify, { FastifyInstance, RouteShorthandOptions } from 'fastify';
 
 import { getTTSaitamaSchedule } from './service/tt-saitama';
+import { getKMTokyoSchedule } from './service/km-tokyo';
 
 const server: FastifyInstance = Fastify({});
 const opts: RouteShorthandOptions = {
@@ -11,9 +12,8 @@ const opts: RouteShorthandOptions = {
   },
 };
 
-server.get('/ttsaitama', opts, async () => {
-  return getTTSaitamaSchedule();
-});
+server.get('/ttsaitama', opts, async () => getTTSaitamaSchedule());
+server.get('/km-tokyo', opts, async () => getKMTokyoSchedule());
 
 const start = async () => {
   try {
