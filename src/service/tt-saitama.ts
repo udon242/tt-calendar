@@ -1,11 +1,7 @@
 import { createEvents } from 'ics';
 
 import { Schedule } from '../types/schedule';
-import {
-  convertAllDayEventDate,
-  convertEventDate,
-  convertEventEndDate,
-} from '../util/calendar';
+import scheduleAdapter from '../adapter/scheduleAdapter';
 
 const schedules: Schedule[] = [
   {
@@ -47,98 +43,71 @@ const schedules: Schedule[] = [
     title: '琉球 - TT彩たま',
     start: '20221105',
     location: 'SAGAプラザ総合体育館',
-    undecided: true,
   },
   {
     title: '岡山 - TT彩たま',
     start: '20221126',
     location: '笠岡総合体育館',
-    undecided: true,
   },
   {
     title: '琉球 - TT彩たま',
     start: '20221217',
     location: '那覇市民体育館',
-    undecided: true,
   },
   {
     title: 'TT彩たま - KM東京',
     start: '20221223',
     location: '和光市民文化センターサンアゼリア',
-    undecided: true,
   },
   {
     title: 'TT彩たま - 岡山',
     start: '20221224',
     location: '和光市民文化センターサンアゼリア',
-    undecided: true,
   },
   {
     title: 'TT彩たま - KM東京',
     start: '20221225',
     location: '和光市民文化センターサンアゼリア',
-    undecided: true,
   },
   {
     title: 'TT彩たま - 琉球',
     start: '20230107',
     location: '仙台市宮城野体育館',
-    undecided: true,
   },
   {
     title: '岡山 - TT彩たま',
     start: '20230204',
     location: '福田公園体育館',
-    undecided: true,
   },
   {
     title: 'KM東京 - TT彩たま',
     start: '20230211',
     location: 'カルッツかわさき',
-    undecided: true,
   },
   {
     title: '琉球 - TT彩たま',
     start: '20230212',
     location: '沖縄アリーナ',
-    undecided: true,
   },
   {
     title: 'TT彩たま - 岡山',
     start: '20230218',
     location: 'あいハウジングアリーナ松元',
-    undecided: true,
   },
   {
     title: 'TT彩たま - 琉球',
     start: '20230225',
     location: '久喜市総合体育館',
-    undecided: true,
   },
   {
     title: 'TT彩たま - KM東京',
     start: '20230226',
     location: '久喜市総合体育館',
-    undecided: true,
   },
 ];
 
 const CALENDAR_NAME = 'T.T彩たま 日程';
-
 const { value } = createEvents(
-  schedules.map((schedule) => ({
-    calName: CALENDAR_NAME,
-    title: schedule.title,
-    start: schedule.undecided
-      ? convertAllDayEventDate(schedule.start)
-      : convertEventDate(schedule.start),
-    end: schedule.undecided
-      ? convertAllDayEventDate(schedule.start)
-      : convertEventEndDate(schedule.start),
-    location: schedule.location,
-  }))
+  scheduleAdapter.schedulesToEvents(CALENDAR_NAME, schedules)
 );
-
-export const getTTSaitamaSchedule = () => {
-  return value;
-};
+export const getTTSaitamaSchedule = () => value;

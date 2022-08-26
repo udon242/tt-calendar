@@ -32,3 +32,7 @@ export const convertAllDayEventDate = (
   const date = dayjs(dateStr);
   return [date.year(), date.month() + 1, date.date()];
 };
+
+export const isAllDayEvent = (dateStr: string) => {
+  return dateStr.length <= 6;
+};
