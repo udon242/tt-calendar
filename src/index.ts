@@ -8,6 +8,7 @@ import { getKAKanagawaSchedule } from './service/ka-kanagawa';
 import { getTopNagoyaSchedule } from './service/top-nagoya';
 import { getKyotoSchedule } from './service/kyoto';
 import { getRedElfSchedule } from './service/red-elf';
+import { getNPMalletsSchedule } from './service/np-mallets';
 
 const server: FastifyInstance = Fastify({});
 const opts: RouteShorthandOptions = {
@@ -26,6 +27,7 @@ server.get('/kakanagawa', opts, async () => getKAKanagawaSchedule());
 server.get('/topnagoya', opts, async () => getTopNagoyaSchedule());
 server.get('/kyoto', opts, async () => getKyotoSchedule());
 server.get('/redelf', opts, async () => getRedElfSchedule());
+server.get('/npmallets', opts, async () => getNPMalletsSchedule());
 
 const start = async () => {
   try {
