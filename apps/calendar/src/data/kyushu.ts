@@ -1,4 +1,4 @@
-import { Schedule } from '../types/schedule';
+import { Schedule } from '@tt-calendar/schema';
 
 export const schedules: Schedule[] = [
   { start: '202209111200', title: '京都 - 九州', location: '大田区総合体育館' },

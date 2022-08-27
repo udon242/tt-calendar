@@ -1,6 +1,6 @@
 import { EventAttributes } from 'ics';
 
-import { Schedule } from '../types/schedule';
+import { Schedule } from '@tt-calendar/schema';
 import * as calendarUtil from '../util/calendar';
 
 const scheduleAdapter = {

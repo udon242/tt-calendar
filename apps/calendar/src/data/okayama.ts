@@ -1,4 +1,4 @@
-import { Schedule } from '../types/schedule';
+import { Schedule } from '@tt-calendar/schema';
 
 export const schedules: Schedule[] = [
   {
