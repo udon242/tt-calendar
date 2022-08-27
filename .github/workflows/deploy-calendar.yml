@@ -15,4 +15,6 @@ jobs:
           node-version: '16.x'
       - run: yarn install
       - run: yarn build
-      - run: flyctl deploy --remote-only
+      - name: Deploy
+        run: flyctl deploy --remote-only
+        working-directory: ./apps/calendar
