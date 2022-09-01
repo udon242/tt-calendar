@@ -11,7 +11,8 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "start": "yarn workspace tt-calendar start"
   },
   "devDependencies": {
     "turbo": "^1.4.3"
