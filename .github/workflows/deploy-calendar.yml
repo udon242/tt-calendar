@@ -16,5 +16,4 @@ jobs:
       - run: yarn install
       - run: yarn build
       - name: Deploy
-        run: flyctl deploy --remote-only
-        working-directory: ./apps/calendar
+        run: flyctl deploy --remote-only --config apps/calendar/fly.toml
