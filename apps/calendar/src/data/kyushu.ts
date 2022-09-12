@@ -1,7 +1,7 @@
 import { Schedule } from '@tt-calendar/schema';
 
 export const schedules: Schedule[] = [
-  { start: '202209111200', title: '京都 - 九州', location: '大田区総合体育館' },
+  { start: '202209111200', title: '京都 1-3 九州', location: '大田区総合体育館' },
   {
     start: '202209241500',
     title: '名古屋 - 九州',
