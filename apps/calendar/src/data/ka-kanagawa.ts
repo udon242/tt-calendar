@@ -3,7 +3,7 @@ import { Schedule } from '@tt-calendar/schema';
 export const schedules: Schedule[] = [
   {
     start: '202209101830',
-    title: '日本生命 - KA神奈川',
+    title: '日本生命 4-0 KA神奈川',
     location: '大田区総合体育館',
   },
   {
