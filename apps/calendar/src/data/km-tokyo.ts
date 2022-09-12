@@ -2,7 +2,7 @@ import { Schedule } from '@tt-calendar/schema';
 
 export const schedules: Schedule[] = [
   {
-    title: 'KM東京 - TT彩たま',
+    title: 'KM東京 2-3 TT彩たま',
     start: '202209101400',
     location: '大田区総合体育館',
   },
