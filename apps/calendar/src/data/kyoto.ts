@@ -4,7 +4,7 @@ export const schedules: Schedule[] = [
   { start: '202209111200', title: '京都 1-3 九州', location: '大田区総合体育館' },
   {
     start: '202209171400',
-    title: 'ニッペM - 京都',
+    title: 'ニッペM 4-0 京都',
     location: '大田区総合体育館',
   },
   {

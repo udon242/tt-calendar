@@ -8,7 +8,7 @@ export const schedules: Schedule[] = [
   },
   {
     start: '202209171600',
-    title: '琉球 - KM東京',
+    title: '琉球 3-1 KM東京',
     location: '那覇市民体育館',
   },
   {
