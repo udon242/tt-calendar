@@ -3,7 +3,7 @@ import { Schedule } from '@tt-calendar/schema';
 export const schedules: Schedule[] = [
   {
     start: '202209161830',
-    title: 'ニッペM - 名古屋',
+    title: 'ニッペM 3-1 名古屋',
     location: '大田区総合体育館',
   },
   {
