@@ -13,7 +13,7 @@ export const schedules: Schedule[] = [
   },
   {
     start: '202209181400',
-    title: '琉球 - 岡山',
+    title: '琉球 3-1 岡山',
     location: '那覇市民体育館',
   },
   {
