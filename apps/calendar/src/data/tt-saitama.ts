@@ -42,6 +42,11 @@ export const schedules: Schedule[] = [
     location: 'SAGAプラザ総合体育館',
   },
   {
+    start: '20221119',
+    title: 'KM東京 - TT彩たま',
+    location: '仙台市宮城野体育館',
+  },
+  {
     title: '岡山 - TT彩たま',
     start: '20221126',
     location: '笠岡総合体育館',
