@@ -8,7 +8,7 @@ export const schedules: Schedule[] = [
   },
   {
     start: '202209231400',
-    title: 'KA神奈川 - 名古屋',
+    title: 'KA神奈川 3-2 名古屋',
     location: 'アリーナ立川立飛',
   },
   {

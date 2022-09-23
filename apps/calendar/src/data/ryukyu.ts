@@ -18,7 +18,7 @@ export const schedules: Schedule[] = [
   },
   {
     start: '202209231830',
-    title: 'KM東京 - 琉球',
+    title: 'KM東京 3-2 琉球',
     location: 'アリーナ立川立飛',
   },
   {
