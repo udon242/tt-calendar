@@ -23,7 +23,7 @@ export const schedules: Schedule[] = [
   },
   {
     start: '202209241300',
-    title: 'TT彩たま - 琉球',
+    title: 'TT彩たま 1-3 琉球',
     location: '浦和駒場体育館',
   },
   {
