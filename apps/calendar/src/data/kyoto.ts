@@ -14,7 +14,7 @@ export const schedules: Schedule[] = [
   },
   {
     start: '202209241200',
-    title: 'KA神奈川 - 京都',
+    title: 'KA神奈川 4-0 京都',
     location: 'アリーナ立川立飛',
   },
   { start: '202210081600', title: '九州 - 京都', location: 'アクシオン福岡' },
