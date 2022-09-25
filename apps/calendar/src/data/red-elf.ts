@@ -13,7 +13,7 @@ export const schedules: Schedule[] = [
   },
   {
     start: '202209251400',
-    title: '名古屋 - 日本生命',
+    title: '名古屋 3-1 日本生命',
     location: 'いちい信金アリーナ',
   },
   {
