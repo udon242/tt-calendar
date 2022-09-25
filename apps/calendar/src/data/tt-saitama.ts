@@ -17,7 +17,7 @@ export const schedules: Schedule[] = [
     location: '浦和駒場体育館',
   },
   {
-    title: 'KM東京 - TT彩たま',
+    title: 'KM東京 2-3 TT彩たま',
     start: '202209251700',
     location: 'アリーナ立川立飛',
   },
