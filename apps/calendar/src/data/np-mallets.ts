@@ -13,7 +13,7 @@ export const schedules: Schedule[] = [
   },
   {
     start: '202209251200',
-    title: 'KA神奈川 - ニッペM',
+    title: 'KA神奈川 3-2 ニッペM',
     location: 'アリーナ立川立飛',
   },
   {
