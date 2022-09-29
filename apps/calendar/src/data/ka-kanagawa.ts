@@ -32,27 +32,27 @@ export const schedules: Schedule[] = [
     location: 'カルッツかわさき',
   },
   {
-    start: '20221102',
+    start: '202211021830',
     title: '日本生命 - KA神奈川',
     location: '福井運動公園体育館',
   },
   {
-    start: '20221104',
+    start: '202211041830',
     title: 'ニッペM - KA神奈川',
     location: 'ベイコム総合体育館',
   },
   {
-    start: '20221105',
+    start: '202211051830',
     title: '九州 - KA神奈川',
     location: 'SAGAプラザ総合体育館',
   },
   {
-    start: '20221119',
+    start: '202211191400',
     title: 'KA神奈川 - 名古屋',
     location: '仙台市宮城野体育館',
   },
   {
-    start: '20221120',
+    start: '202211201200',
     title: 'KA神奈川 - 九州',
     location: '仙台市宮城野体育館',
   },

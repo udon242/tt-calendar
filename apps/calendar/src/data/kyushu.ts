@@ -1,7 +1,11 @@
 import { Schedule } from '@tt-calendar/schema';
 
 export const schedules: Schedule[] = [
-  { start: '202209111200', title: '京都 1-3 九州', location: '大田区総合体育館' },
+  {
+    start: '202209111200',
+    title: '京都 1-3 九州',
+    location: '大田区総合体育館',
+  },
   {
     start: '202209241500',
     title: '名古屋 3-2 九州',
@@ -24,22 +28,22 @@ export const schedules: Schedule[] = [
     location: 'カルッツかわさき',
   },
   {
-    start: '20221103',
+    start: '202211031300',
     title: '日本生命 - 九州',
     location: '福井運動公園体育館',
   },
   {
-    start: '20221105',
+    start: '202211051830',
     title: '九州 - KA神奈川',
     location: 'SAGAプラザ総合体育館',
   },
   {
-    start: '20221106',
+    start: '202211061400',
     title: '九州 - 日本生命',
     location: 'SAGAプラザ総合体育館',
   },
   {
-    start: '20221120',
+    start: '202211201200',
     title: 'KA神奈川 - 九州',
     location: '仙台市宮城野体育館',
   },
@@ -48,8 +52,16 @@ export const schedules: Schedule[] = [
     title: '九州 - ニッペM',
     location: '新発田市カルチャーセンター',
   },
-  { start: '20221217', title: '九州 - 日本生命', location: 'アクシオン福岡' },
-  { start: '20221218', title: '九州 - 京都', location: 'アクシオン福岡' },
+  {
+    start: '20221217',
+    title: '九州 - 日本生命',
+    location: 'アクシオン福岡',
+  },
+  {
+    start: '20221218',
+    title: '九州 - 京都',
+    location: 'アクシオン福岡',
+  },
   {
     start: '20221224',
     title: 'ニッペM - 九州',
@@ -60,7 +72,11 @@ export const schedules: Schedule[] = [
     title: '九州 - 名古屋',
     location: '北九州市立総合体育館',
   },
-  { start: '20230108', title: '京都 - 九州', location: '仙台市宮城野体育館' },
+  {
+    start: '20230108',
+    title: '京都 - 九州',
+    location: '仙台市宮城野体育館',
+  },
   {
     start: '20230217',
     title: '日本生命 - 九州',
@@ -76,5 +92,9 @@ export const schedules: Schedule[] = [
     title: '九州 - KA神奈川',
     location: '八代トヨオカ地建アリーナ',
   },
-  { start: '20230225', title: 'ニッペM - 九州', location: '守口市民体育館' },
+  {
+    start: '20230225',
+    title: 'ニッペM - 九州',
+    location: '守口市民体育館',
+  },
 ];

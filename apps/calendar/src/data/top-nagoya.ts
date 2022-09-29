@@ -32,12 +32,12 @@ export const schedules: Schedule[] = [
     location: 'スカイホール豊田',
   },
   {
-    start: '20221105',
+    start: '202211051400',
     title: 'ニッペM - 名古屋',
     location: 'ベイコム総合体育館',
   },
   {
-    start: '20221119',
+    start: '202211191400',
     title: 'KA神奈川 - 名古屋',
     location: '仙台市宮城野体育館',
   },

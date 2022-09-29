@@ -1,7 +1,11 @@
 import { Schedule } from '@tt-calendar/schema';
 
 export const schedules: Schedule[] = [
-  { start: '202209111200', title: '京都 1-3 九州', location: '大田区総合体育館' },
+  {
+    start: '202209111200',
+    title: '京都 1-3 九州',
+    location: '大田区総合体育館',
+  },
   {
     start: '202209171400',
     title: 'ニッペM 4-0 京都',
@@ -17,14 +21,18 @@ export const schedules: Schedule[] = [
     title: 'KA神奈川 4-0 京都',
     location: 'アリーナ立川立飛',
   },
-  { start: '202210081600', title: '九州 - 京都', location: 'アクシオン福岡' },
+  {
+    start: '202210081600',
+    title: '九州 - 京都',
+    location: 'アクシオン福岡',
+  },
   {
     start: '202210221830',
     title: 'KA神奈川 - 京都',
     location: 'カルッツかわさき',
   },
   {
-    start: '20221127',
+    start: '202211271300',
     title: '日本生命 - 京都',
     location: '日本工学院 片柳アリーナ',
   },
