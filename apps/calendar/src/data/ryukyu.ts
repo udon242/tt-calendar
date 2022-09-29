@@ -47,18 +47,22 @@ export const schedules: Schedule[] = [
     location: 'カルッツかわさき',
   },
   {
-    start: '20221105',
+    start: '202211051400',
     title: '琉球 - TT彩たま',
     location: 'SAGAプラザ総合体育館',
   },
-  { start: '20221118', title: '琉球 - 岡山', location: '秋田市' },
   {
-    start: '20221120',
+    start: '202211181830',
+    title: '琉球 - 岡山',
+    location: 'CNAアリーナ★あきた',
+  },
+  {
+    start: '202211201700',
     title: 'KM東京 - 琉球',
     location: '仙台市宮城野体育館',
   },
   {
-    start: '20221127',
+    start: '202211271300',
     title: '岡山 - 琉球',
     location: '笠岡総合体育館',
   },
@@ -77,7 +81,11 @@ export const schedules: Schedule[] = [
     title: 'TT彩たま - 琉球',
     location: '	仙台市宮城野体育館		',
   },
-  { start: '20230211', title: '琉球 - 岡山', location: '沖縄アリーナ' },
+  {
+    start: '20230211',
+    title: '琉球 - 岡山',
+    location: '沖縄アリーナ',
+  },
   {
     start: '20230212',
     title: '琉球 - TT彩たま',

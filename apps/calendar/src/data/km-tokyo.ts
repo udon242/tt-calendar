@@ -42,12 +42,12 @@ export const schedules: Schedule[] = [
     location: 'カルッツかわさき',
   },
   {
-    start: '20221119',
+    start: '202211191830',
     title: 'KM東京 - TT彩たま',
     location: '仙台市宮城野体育館',
   },
   {
-    start: '20221120',
+    start: '202211201700',
     title: 'KM東京 - 琉球',
     location: '仙台市宮城野体育館',
   },
