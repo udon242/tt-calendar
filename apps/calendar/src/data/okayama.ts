@@ -41,14 +41,18 @@ export const schedules: Schedule[] = [
     title: 'TT彩たま - 岡山',
     location: '深谷ビッグタートル',
   },
-  { start: '20221118', title: '琉球 - 岡山', location: '秋田市' },
   {
-    start: '20221126',
+    start: '202211181830',
+    title: '琉球 - 岡山',
+    location: 'CNAアリーナ★あきた',
+  },
+  {
+    start: '202211261400',
     title: '岡山 - TT彩たま',
     location: '笠岡総合体育館',
   },
   {
-    start: '20221127',
+    start: '202211271300',
     title: '岡山 - 琉球',
     location: '笠岡総合体育館',
   },

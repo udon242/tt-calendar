@@ -27,17 +27,17 @@ export const schedules: Schedule[] = [
     location: 'スカイホール豊田',
   },
   {
-    start: '20221104',
+    start: '202211041830',
     title: 'ニッペM - KA神奈川',
     location: 'ベイコム総合体育館',
   },
   {
-    start: '20221105',
+    start: '202211051400',
     title: 'ニッペM - 名古屋',
     location: 'ベイコム総合体育館',
   },
   {
-    start: '20221126',
+    start: '202211261700',
     title: '日本生命 - ニッペM',
     location: '日本工学院 片柳アリーナ',
   },

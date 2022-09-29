@@ -17,27 +17,27 @@ export const schedules: Schedule[] = [
     location: 'いちい信金アリーナ',
   },
   {
-    start: '20221102',
+    start: '202211021830',
     title: '日本生命 - KA神奈川',
     location: '福井運動公園体育館',
   },
   {
-    start: '20221103',
+    start: '202211031330',
     title: '日本生命 - 九州',
     location: '福井運動公園体育館',
   },
   {
-    start: '20221106',
+    start: '202211061400',
     title: '九州 - 日本生命',
     location: 'SAGAプラザ総合体育館',
   },
   {
-    start: '20221126',
+    start: '202211261700',
     title: '日本生命 - ニッペM',
     location: '日本工学院 片柳アリーナ',
   },
   {
-    start: '20221127',
+    start: '202211271300',
     title: '日本生命 - 京都',
     location: '日本工学院 片柳アリーナ',
   },
