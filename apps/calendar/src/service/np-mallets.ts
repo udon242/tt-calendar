@@ -1,6 +1,6 @@
 import { createEvents } from 'ics';
 
-import { schedules } from '../data/np-mallets';
+import { schedules } from '@tt-calendar/data/np-mallets';
 import scheduleAdapter from '../adapter/scheduleAdapter';
 
 const CALENDAR_NAME = '日本ペイントマレッツ 日程';

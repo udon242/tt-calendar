@@ -1,0 +1,9 @@
+{
+  "name": "@tt-calendar/data",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf ./*.js"
+  }
+}

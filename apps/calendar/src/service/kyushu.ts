@@ -1,6 +1,6 @@
 import { createEvents } from 'ics';
 
-import { schedules } from '../data/kyushu';
+import { schedules } from '@tt-calendar/data/kyushu';
 import scheduleAdapter from '../adapter/scheduleAdapter';
 
 const CALENDAR_NAME = '九州アスティーダ 日程';

@@ -1,6 +1,6 @@
 import { createEvents } from 'ics';
 
-import { schedules } from '../data/ka-kanagawa';
+import { schedules } from '@tt-calendar/data/ka-kanagawa';
 import scheduleAdapter from '../adapter/scheduleAdapter';
 
 const CALENDAR_NAME = '木下アビエル神奈川 日程';
