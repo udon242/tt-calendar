@@ -1,6 +1,6 @@
 import { createEvents } from 'ics';
 
-import { schedules } from '../data/top-nagoya';
+import { schedules } from '@tt-calendar/data/top-nagoya';
 import scheduleAdapter from '../adapter/scheduleAdapter';
 
 const CALENDAR_NAME = 'トップおとめピンポンズ名古屋 日程';

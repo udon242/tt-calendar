@@ -15,6 +15,7 @@
     "start": "yarn workspace tt-calendar start"
   },
   "devDependencies": {
+    "rimraf": "^3.0.2",
     "turbo": "^1.4.3"
   }
 }

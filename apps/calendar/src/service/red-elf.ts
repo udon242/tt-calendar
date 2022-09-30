@@ -1,6 +1,6 @@
 import { createEvents } from 'ics';
 
-import { schedules } from '../data/red-elf';
+import { schedules } from '@tt-calendar/data/red-elf';
 import scheduleAdapter from '../adapter/scheduleAdapter';
 
 const CALENDAR_NAME = '日本生命レッドエルフ 日程';
