@@ -11,11 +11,10 @@ export type Team =
   | 'kyusyu';
 
 export type Schedule = {
-  title: string;
   start: string;
   location: string;
-  homeTeam?: Team;
-  awayTeam?: Team;
+  homeTeam: Team;
+  awayTeam: Team;
   homeScore?: 0 | 1 | 2 | 3 | 4;
   awayScore?: 0 | 1 | 2 | 3 | 4;
 };
