@@ -12,6 +12,7 @@
   ],
   "scripts": {
     "build": "turbo run build",
+    "clean": "turbo run clean",
     "start": "yarn workspace tt-calendar start"
   },
   "devDependencies": {
