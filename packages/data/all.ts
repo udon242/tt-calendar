@@ -190,6 +190,8 @@ export const allSchedules: Schedule[] = [
     location: 'アクシオン福岡',
     homeTeam: 'kyusyu',
     awayTeam: 'kyoto',
+    homeScore: 3,
+    awayScore: 1,
   },
   {
     start: '202210091300',
