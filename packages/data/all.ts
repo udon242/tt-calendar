@@ -198,6 +198,8 @@ export const allSchedules: Schedule[] = [
     location: 'イオンモール岡山',
     homeTeam: 'okayama',
     awayTeam: 'ryukyu',
+    homeScore: 3,
+    awayScore: 2,
   },
   {
     start: '202210221400',
