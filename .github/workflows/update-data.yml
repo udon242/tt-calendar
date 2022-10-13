@@ -1,0 +1,33 @@
+name: Update data
+on:
+  schedule:
+    # 毎日0時,18時
+    - cron: '0 15,9 * * *'
+env:
+  EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+  GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+
+jobs:
+  fetch-data:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Install dependencies
+        run: yarn install
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps
+      - name: Run fetcher
+        run: yarn data:fetch
+      - name: git setting
+        run: |
+          git config --local user.email ${EMAIL_ADDRESS}
+          git config --local user.name ${GIT_USER_NAME}
+      - name: git push
+        run: |
+          git add packages/data/data.json
+          git commit -m "Update data" -a
+          git push origin main
