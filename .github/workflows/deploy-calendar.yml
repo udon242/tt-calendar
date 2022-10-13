@@ -2,7 +2,7 @@ name: Fly Deploy
 on:
   push:
     branches:
-      - main 
+      - main
 env:
   FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
 jobs:
@@ -19,4 +19,4 @@ jobs:
       - run: yarn install
       - run: yarn build
       - name: Deploy
-        run: flyctl deploy --remote-only --config apps/calendar/fly.toml
+        run: flyctl deploy --remote-only --no-cache --config apps/calendar/fly.toml
