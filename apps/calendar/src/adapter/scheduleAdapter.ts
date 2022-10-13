@@ -1,8 +1,7 @@
 import { EventAttributes } from 'ics';
 
-import { Schedule } from '@tt-calendar/schema';
+import { Schedule, Team } from '@tt-calendar/schema';
 import * as calendarUtil from '../util/calendar';
-import { Team } from '@tt-calendar/schema/schedule';
 
 const teamNameMap: { [key in Team]: string } = {
   'tt-saitama': 'TT彩たま',

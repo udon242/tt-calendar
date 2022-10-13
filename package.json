@@ -13,7 +13,8 @@
   "scripts": {
     "build": "turbo run build",
     "clean": "turbo run clean",
-    "start": "yarn workspace tt-calendar start"
+    "start": "yarn workspace tt-calendar start",
+    "data:fetch": "yarn workspace tt-fetcher start"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
