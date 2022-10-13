@@ -1,8 +1,8 @@
 name: Update data
 on:
   schedule:
-    # 毎日0時,18時
-    - cron: '0 15,9 * * *'
+    # 毎日0時,18時,13時
+    - cron: '0 15,9,4 * * *'
 env:
   EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
   GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
