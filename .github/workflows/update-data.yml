@@ -35,5 +35,5 @@ jobs:
         name: git push
         run: |
           git add packages/data/data.json
-          git commit -m "Update data" -a
+          git commit -m "Update data `date "+%Y/%m/%d"`" -a
           git push origin main
