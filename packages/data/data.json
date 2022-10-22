@@ -212,14 +212,16 @@
     "location": "スカイホール豊田",
     "homeTeam": "top-nagoya",
     "awayTeam": "kyusyu",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202210221830",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202210231200",
