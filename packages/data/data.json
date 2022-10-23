@@ -228,26 +228,32 @@
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
     "awayTeam": "ryukyu",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202210231400",
     "location": "深谷ビッグタートル",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202210231400",
     "location": "スカイホール豊田",
     "homeTeam": "top-nagoya",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202210231700",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202211021830",
