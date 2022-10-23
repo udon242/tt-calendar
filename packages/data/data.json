@@ -227,7 +227,9 @@
     "start": "202210231200",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202210231400",
