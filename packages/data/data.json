@@ -259,7 +259,9 @@
     "start": "202211021830",
     "location": "福井運動公園体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202211031330",
