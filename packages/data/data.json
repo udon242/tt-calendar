@@ -267,7 +267,9 @@
     "start": "202211031330",
     "location": "福井運動公園体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202211041830",
