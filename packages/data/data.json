@@ -275,7 +275,9 @@
     "start": "202211041830",
     "location": "ベイコム総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202211051400",
