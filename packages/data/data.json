@@ -283,13 +283,17 @@
     "start": "202211051400",
     "location": "SAGAプラザ総合体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202211051400",
     "location": "ベイコム総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202211051830",
