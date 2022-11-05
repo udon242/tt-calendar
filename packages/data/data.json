@@ -299,7 +299,9 @@
     "start": "202211051830",
     "location": "SAGAプラザ総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202211061400",
