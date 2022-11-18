@@ -315,7 +315,9 @@
     "start": "202211181830",
     "location": "CNAアリーナ★あきた",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202211191400",
