@@ -323,7 +323,9 @@
     "start": "202211191400",
     "location": "仙台市宮城野体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202211191830",
