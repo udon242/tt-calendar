@@ -331,7 +331,9 @@
     "start": "202211191830",
     "location": "仙台市宮城野体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202211201200",
