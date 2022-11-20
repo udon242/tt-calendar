@@ -50,10 +50,11 @@ const EXPORT_FILE_PATH = '../data/data.json';
         })
       );
     }
-    writeFile(EXPORT_FILE_PATH, schedules);
+    await writeFile(EXPORT_FILE_PATH, schedules);
   } catch (err) {
+    console.error('fetch error...');
     throw err;
   } finally {
-    browser.close();
+    await browser.close();
   }
 })();

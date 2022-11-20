@@ -6,12 +6,13 @@
   "scripts": {
     "start": "ts-node index.ts",
     "lint": "eslint --fix",
-    "format": "prettier . --write"
+    "format": "prettier . --write",
+    "package-update": "npx -p npm-check-updates -c \"ncu -u\""
   },
   "dependencies": {
-    "@playwright/test": "^1.27.1",
+    "@playwright/test": "^1.28.0",
     "@tt-calendar/schema": "*",
-    "dayjs": "^1.11.5",
+    "dayjs": "^1.11.6",
     "zod": "^3.19.1"
   },
   "devDependencies": {
