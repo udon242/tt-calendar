@@ -36,7 +36,7 @@ export const extractAwayScore = (rawData: string): number | undefined => {
   return score ? Number(score[1]) : undefined;
 };
 
-export const convertTemaName = (rawTeamName: string): Team => {
+export const convertTeamName = (rawTeamName: string): Team | string => {
   const teamNameMap: { [key in string]: Team } = {
     TT彩たま: 'tt-saitama',
     KM東京: 'km-tokyo',
