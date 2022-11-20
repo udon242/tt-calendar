@@ -347,7 +347,9 @@
     "start": "202211201700",
     "location": "仙台市宮城野体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202211261400",
