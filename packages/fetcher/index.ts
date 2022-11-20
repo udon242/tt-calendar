@@ -1,7 +1,7 @@
 import { Schedule } from '@tt-calendar/schema';
 import { getBrowser, getPage } from './libs/browser';
 import {
-  convertTemaName,
+  convertTeamName,
   extractAwayScore,
   extractDate,
   extractHomeScore,
@@ -28,10 +28,10 @@ const EXPORT_FILE_PATH = '../data/data.json';
       const startTime = extractStartTime(await tableRow.nth(1).innerText());
       const start = `${date}${startTime}`;
 
-      const homeTeam = convertTemaName(
+      const homeTeam = convertTeamName(
         (await tableRow.nth(3).innerText()).trim()
       );
-      const awayTeam = convertTemaName(
+      const awayTeam = convertTeamName(
         (await tableRow.nth(5).innerText()).trim()
       );
       const location = (await tableRow.nth(6).innerText()).trim();
