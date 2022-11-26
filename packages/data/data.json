@@ -355,7 +355,9 @@
     "start": "202211261400",
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202211261700",
