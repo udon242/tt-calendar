@@ -371,13 +371,17 @@
     "start": "202211271300",
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202211271300",
     "location": "日本工学院 片柳アリーナ",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202212031500",
