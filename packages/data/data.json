@@ -403,13 +403,17 @@
     "start": "202212041300",
     "location": "新発田市カルチャーセンター",
     "homeTeam": "np-mallets",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202212041400",
     "location": "感謝と挑戦のTYK体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202212161900",
