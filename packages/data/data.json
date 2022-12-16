@@ -419,7 +419,9 @@
     "start": "202212161900",
     "location": "鳴門・大塚スポーツパーク アミノバリューホール",
     "homeTeam": "okayama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202212171200",
