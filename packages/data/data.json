@@ -427,7 +427,9 @@
     "start": "202212171200",
     "location": "鳴門・大塚スポーツパーク アミノバリューホール",
     "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202212171400",
