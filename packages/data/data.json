@@ -428,20 +428,24 @@
     "location": "鳴門・大塚スポーツパーク アミノバリューホール",
     "homeTeam": "kyoto",
     "awayTeam": "top-nagoya",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202212171400",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202212171400",
     "location": "アクシオン福岡",
     "homeTeam": "kyusyu",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202212171630",
