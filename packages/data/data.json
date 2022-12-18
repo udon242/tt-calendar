@@ -461,23 +461,23 @@
     "homeTeam": "ryukyu",
     "awayTeam": "km-tokyo",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202212181400",
     "location": "アクシオン福岡",
     "homeTeam": "kyusyu",
     "awayTeam": "kyoto",
-    "homeScore": 0,
-    "awayScore": 2
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202212181500",
     "location": "西尾市総合体育館",
     "homeTeam": "top-nagoya",
     "awayTeam": "red-elf",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202212231830",
