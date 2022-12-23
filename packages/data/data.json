@@ -483,13 +483,17 @@
     "start": "202212231830",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202212231830",
     "location": "池田市五月山体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202212241400",
