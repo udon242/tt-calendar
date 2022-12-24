@@ -499,13 +499,17 @@
     "start": "202212241400",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202212241400",
     "location": "池田市五月山体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202212251300",
