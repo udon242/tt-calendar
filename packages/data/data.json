@@ -515,13 +515,17 @@
     "start": "202212251300",
     "location": "向日市民体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202212251400",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202212251700",
