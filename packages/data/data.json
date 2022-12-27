@@ -547,7 +547,9 @@
     "start": "202212271400",
     "location": "北九州市立総合体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202212281600",
