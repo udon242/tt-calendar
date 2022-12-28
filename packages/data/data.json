@@ -555,7 +555,9 @@
     "start": "202212281600",
     "location": "北九州市立総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202301071400",
