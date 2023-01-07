@@ -571,7 +571,9 @@
     "start": "202301071830",
     "location": "仙台市宮城野体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202301081200",
