@@ -563,7 +563,9 @@
     "start": "202301071400",
     "location": "仙台市宮城野体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202301071830",
