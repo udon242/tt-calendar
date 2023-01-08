@@ -587,7 +587,9 @@
     "start": "202301081630",
     "location": "仙台市宮城野体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202301091330",
