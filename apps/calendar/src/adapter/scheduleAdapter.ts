@@ -14,6 +14,7 @@ const teamNameMap: { [key in Team]: string } = {
   'red-elf': '日本生命',
   'np-mallets': 'ニッペM',
   kyusyu: '九州',
+  undecided: '未定',
 };
 
 const scheduleAdapter = {
@@ -33,8 +34,8 @@ const scheduleAdapter = {
       location: schedule.location,
     })),
   createTitle: (schedule: Schedule): string => {
-    const homeTeam = teamNameMap[schedule.homeTeam];
-    const awayTeam = teamNameMap[schedule.awayTeam];
+    const homeTeam = teamNameMap[schedule.homeTeam] || '未定';
+    const awayTeam = teamNameMap[schedule.awayTeam] || '未定';
     const homeScore = scheduleAdapter.createScore(schedule.homeScore);
     const awayScore = scheduleAdapter.createScore(schedule.awayScore);
     return `${homeTeam} ${homeScore}-${awayScore} ${awayTeam}`;
