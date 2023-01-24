@@ -11,6 +11,7 @@ export const Team = z.enum([
   'red-elf',
   'np-mallets',
   'kyusyu',
+  'undecided',
 ]);
 export type Team = z.infer<typeof Team>;
 
