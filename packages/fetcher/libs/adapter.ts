@@ -48,6 +48,7 @@ export const convertTeamName = (rawTeamName: string): Team | string => {
     日本生命: 'red-elf',
     ニッペM: 'np-mallets',
     九州: 'kyusyu',
+    RS1位: 'undecided',
     RS2位: 'undecided',
     RS3位: 'undecided',
     SF勝者: 'undecided',
