@@ -605,21 +605,23 @@
     "homeTeam": "red-elf",
     "awayTeam": "top-nagoya",
     "homeScore": 2,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202302041400",
     "location": "福田公園体育館",
     "homeTeam": "okayama",
     "awayTeam": "tt-saitama",
-    "homeScore": 2,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202302041730",
     "location": "貝塚市コスモスシアター",
     "homeTeam": "kyoto",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202302051200",
