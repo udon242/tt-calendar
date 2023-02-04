@@ -603,13 +603,17 @@
     "start": "202302041300",
     "location": "貝塚市コスモスシアター",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202302041400",
     "location": "福田公園体育館",
     "homeTeam": "okayama",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202302041730",
