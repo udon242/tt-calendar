@@ -637,13 +637,15 @@
     "homeTeam": "okayama",
     "awayTeam": "km-tokyo",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 4
   },
   {
     "start": "202302051630",
     "location": "貝塚市コスモスシアター",
     "homeTeam": "kyoto",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202302111300",
