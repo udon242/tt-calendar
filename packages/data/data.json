@@ -627,7 +627,9 @@
     "start": "202302051200",
     "location": "貝塚市コスモスシアター",
     "homeTeam": "red-elf",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202302051400",
