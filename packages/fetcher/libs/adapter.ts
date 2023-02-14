@@ -53,5 +53,8 @@ export const convertTeamName = (rawTeamName: string): Team | string => {
     RS3位: 'undecided',
     SF勝者: 'undecided',
   };
-  return teamNameMap[rawTeamName] || rawTeamName;
+  const teamNameKey = Object.keys(teamNameMap).find((key) =>
+    rawTeamName.includes(key)
+  );
+  return teamNameKey ? teamNameMap[teamNameKey] : 'undecided';
 };
