@@ -699,7 +699,9 @@
     "start": "202302171400",
     "location": "島津アリーナ京都",
     "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202302171830",
