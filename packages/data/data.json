@@ -707,7 +707,9 @@
     "start": "202302171830",
     "location": "あいハウジングアリーナ松元",
     "homeTeam": "red-elf",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202302181200",
