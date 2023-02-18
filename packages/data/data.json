@@ -715,7 +715,9 @@
     "start": "202302181200",
     "location": "あいハウジングアリーナ松元",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202302181700",
