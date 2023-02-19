@@ -739,7 +739,9 @@
     "start": "202302191200",
     "location": "あいハウジングアリーナ松元",
     "homeTeam": "kyoto",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202302191400",
