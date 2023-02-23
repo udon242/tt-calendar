@@ -763,7 +763,9 @@
     "start": "202302231300",
     "location": "津山総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202302251400",
