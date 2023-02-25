@@ -771,19 +771,25 @@
     "start": "202302251400",
     "location": "久喜市総合体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202302251400",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202302251500",
     "location": "豊田合成エントリオ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202302261300",
