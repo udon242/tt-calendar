@@ -795,31 +795,37 @@
     "start": "202302261300",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202302261400",
     "location": "久喜市総合体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202302261400",
     "location": "豊田合成エントリオ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202303221900",
     "location": "代々木第二体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
+    "homeTeam": "top-nagoya",
+    "awayTeam": "red-elf"
   },
   {
     "start": "202303231900",
     "location": "代々木第二体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
+    "homeTeam": "km-tokyo",
+    "awayTeam": "ryukyu"
   },
   {
     "start": "202303261830",
