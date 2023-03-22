@@ -819,7 +819,9 @@
     "start": "202303221900",
     "location": "代々木第二体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202303231900",
@@ -831,6 +833,6 @@
     "start": "202303261830",
     "location": "代々木第二体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "undecided"
+    "awayTeam": "red-elf"
   }
 ]
