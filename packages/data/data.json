@@ -827,7 +827,9 @@
     "start": "202303231900",
     "location": "代々木第二体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202303261830",
