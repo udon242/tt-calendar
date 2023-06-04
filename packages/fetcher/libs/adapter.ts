@@ -42,6 +42,8 @@ export const convertTeamName = (rawTeamName: string): Team | string => {
     KM東京: 'km-tokyo',
     岡山: 'okayama',
     琉球: 'ryukyu',
+    静岡: 'shizuoka',
+    金沢: 'kanazawa',
     KA神奈川: 'ka-kanagawa',
     トップ: 'top-nagoya',
     京都: 'kyoto',

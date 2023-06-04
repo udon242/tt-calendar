@@ -5,6 +5,8 @@ export const Team = z.enum([
   'km-tokyo',
   'okayama',
   'ryukyu',
+  'shizuoka',
+  'kanazawa',
   'ka-kanagawa',
   'top-nagoya',
   'kyoto',
