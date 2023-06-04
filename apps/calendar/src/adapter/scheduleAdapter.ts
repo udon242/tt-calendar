@@ -8,6 +8,8 @@ const teamNameMap: { [key in Team]: string } = {
   'km-tokyo': 'KM東京',
   okayama: '岡山',
   ryukyu: '琉球',
+  shizuoka: '静岡',
+  kanazawa: '金沢',
   'ka-kanagawa': 'KA神奈川',
   'top-nagoya': '名古屋',
   kyoto: '京都',
