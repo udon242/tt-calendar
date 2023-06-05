@@ -20,7 +20,7 @@
   {
     "start": "20230805",
     "location": "静岡中央体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "ryukyu"
   },
   {
@@ -44,8 +44,8 @@
   {
     "start": "20230806",
     "location": "静岡中央体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
+    "homeTeam": "shizuoka",
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20230806",
@@ -63,7 +63,7 @@
     "start": "20230811",
     "location": "CNAアリーナ★あきた",
     "homeTeam": "ryukyu",
-    "awayTeam": "undecided"
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20230811",
@@ -93,12 +93,12 @@
     "start": "20230812",
     "location": "ブレックスアリーナ宇都宮",
     "homeTeam": "tt-saitama",
-    "awayTeam": "undecided"
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20230812",
     "location": "金沢市総合体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "kanazawa",
     "awayTeam": "okayama"
   },
   {
@@ -116,8 +116,8 @@
   {
     "start": "20230813",
     "location": "金沢市総合体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
+    "homeTeam": "kanazawa",
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20230814",
@@ -134,7 +134,7 @@
   {
     "start": "20230819",
     "location": "小松総合体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "kanazawa",
     "awayTeam": "ryukyu"
   },
   {
@@ -152,7 +152,7 @@
   {
     "start": "20230820",
     "location": "小松総合体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "kanazawa",
     "awayTeam": "km-tokyo"
   },
   {
@@ -176,7 +176,7 @@
   {
     "start": "20230826",
     "location": "グランフロント大阪",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "km-tokyo"
   },
   {
@@ -189,7 +189,7 @@
     "start": "20230830",
     "location": "代々木第二体育館",
     "homeTeam": "okayama",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20230830",
@@ -201,13 +201,13 @@
     "start": "20231021",
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "undecided"
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20231021",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20231021",
@@ -237,7 +237,7 @@
     "start": "20231028",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "undecided"
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20231028",
@@ -261,7 +261,7 @@
     "start": "20231029",
     "location": "イオンモール岡山",
     "homeTeam": "okayama",
-    "awayTeam": "undecided"
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20231029",
@@ -290,7 +290,7 @@
   {
     "start": "20231104",
     "location": "いしかわ総合スポーツセンター",
-    "homeTeam": "undecided",
+    "homeTeam": "kanazawa",
     "awayTeam": "tt-saitama"
   },
   {
@@ -308,14 +308,14 @@
   {
     "start": "20231105",
     "location": "いしかわ総合スポーツセンター",
-    "homeTeam": "undecided",
+    "homeTeam": "kanazawa",
     "awayTeam": "ryukyu"
   },
   {
     "start": "20231105",
     "location": "いしかわ総合スポーツセンター",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
+    "homeTeam": "kanazawa",
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20231105",
@@ -326,13 +326,13 @@
   {
     "start": "20231110",
     "location": "GRANSHIP静岡県コンベンションアーツセンター",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "km-tokyo"
   },
   {
     "start": "20231111",
     "location": "GRANSHIP静岡県コンベンションアーツセンター",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "tt-saitama"
   },
   {
@@ -350,14 +350,14 @@
   {
     "start": "20231112",
     "location": "GRANSHIP静岡県コンベンションアーツセンター",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "okayama"
   },
   {
     "start": "20231112",
     "location": "大和スポーツセンター",
     "homeTeam": "km-tokyo",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20231112",
@@ -387,7 +387,7 @@
     "start": "20231118",
     "location": "越谷市立総合体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20231201",
@@ -423,7 +423,7 @@
     "start": "20231223",
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20231223",
@@ -434,7 +434,7 @@
   {
     "start": "20231223",
     "location": "富士宮市民体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "km-tokyo"
   },
   {
@@ -453,12 +453,12 @@
     "start": "20231224",
     "location": "沖縄アリーナ",
     "homeTeam": "ryukyu",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20231224",
     "location": "富士宮市民体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "okayama"
   },
   {
@@ -507,7 +507,7 @@
     "start": "20240107",
     "location": "岡山武道館",
     "homeTeam": "okayama",
-    "awayTeam": "undecided"
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20240107",
@@ -536,19 +536,19 @@
   {
     "start": "20240112",
     "location": "磐田市民文化会館「かたりあ」",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "tt-saitama"
   },
   {
     "start": "20240113",
     "location": "小松総合体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "kanazawa",
     "awayTeam": "km-tokyo"
   },
   {
     "start": "20240113",
     "location": "磐田市民文化会館「かたりあ」",
-    "homeTeam": "undecided",
+    "homeTeam": "shizuoka",
     "awayTeam": "ryukyu"
   },
   {
@@ -560,7 +560,7 @@
   {
     "start": "20240114",
     "location": "小松総合体育館",
-    "homeTeam": "undecided",
+    "homeTeam": "kanazawa",
     "awayTeam": "tt-saitama"
   },
   {
@@ -579,7 +579,7 @@
     "start": "20240203",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20240203",
@@ -615,7 +615,7 @@
     "start": "20240204",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20240204",
@@ -633,7 +633,7 @@
     "start": "20240210",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "undecided"
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20240210",
@@ -662,8 +662,8 @@
   {
     "start": "20240212",
     "location": "奥州市総合体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
+    "homeTeam": "kanazawa",
+    "awayTeam": "shizuoka"
   },
   {
     "start": "20240212",
@@ -699,7 +699,7 @@
     "start": "20240303",
     "location": "福田公園体育館",
     "homeTeam": "okayama",
-    "awayTeam": "undecided"
+    "awayTeam": "kanazawa"
   },
   {
     "start": "20240303",
