@@ -198,6 +198,12 @@
     "awayTeam": "kyoto"
   },
   {
+    "start": "20231020",
+    "location": "北九州市立総合体育館",
+    "homeTeam": "red-elf",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
     "start": "20231021",
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
@@ -226,12 +232,6 @@
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "okayama"
-  },
-  {
-    "start": "20231022",
-    "location": "北九州市立総合体育館",
-    "homeTeam": "red-elf",
-    "awayTeam": "ka-kanagawa"
   },
   {
     "start": "20231028",
