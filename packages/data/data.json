@@ -3,7 +3,9 @@
     "start": "202307291700",
     "location": "アリーナ立川立飛",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202307301400",
