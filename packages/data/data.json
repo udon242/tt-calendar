@@ -11,7 +11,9 @@
     "start": "202307301400",
     "location": "アリーナ立川立飛",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202308051200",
