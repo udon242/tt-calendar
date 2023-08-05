@@ -29,21 +29,23 @@
     "homeTeam": "kyusyu",
     "awayTeam": "red-elf",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202308051500",
     "location": "感謝と挑戦のTYK体育館",
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202308051800",
     "location": "静岡中央体育館",
     "homeTeam": "shizuoka",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202308061300",
