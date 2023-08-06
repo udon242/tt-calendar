@@ -51,19 +51,25 @@
     "start": "202308061300",
     "location": "岡山武道館",
     "homeTeam": "okayama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202308061300",
     "location": "静岡中央体育館",
     "homeTeam": "shizuoka",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202308061400",
     "location": "感謝と挑戦のTYK体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202308101900",
