@@ -75,7 +75,9 @@
     "start": "202308101900",
     "location": "CNAアリーナ★あきた",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202308111300",
@@ -736,29 +738,5 @@
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
     "awayTeam": "ka-kanagawa"
-  },
-  {
-    "start": "20240322",
-    "location": "代々木第二体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
-  },
-  {
-    "start": "20240323",
-    "location": "代々木第二体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
-  },
-  {
-    "start": "20240323",
-    "location": "代々木第二体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
-  },
-  {
-    "start": "20240324",
-    "location": "代々木第二体育館",
-    "homeTeam": "undecided",
-    "awayTeam": "undecided"
   }
 ]
