@@ -92,20 +92,24 @@
     "location": "江戸川区総合文化センター大ホール",
     "homeTeam": "km-tokyo",
     "awayTeam": "okayama",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202308111730",
     "location": "江戸川区総合文化センター大ホール",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202308111800",
     "location": "CNAアリーナ★あきた",
     "homeTeam": "kyusyu",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202308121100",
