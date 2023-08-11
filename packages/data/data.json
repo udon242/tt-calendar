@@ -83,13 +83,17 @@
     "start": "202308111300",
     "location": "CNAアリーナ★あきた",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202308111300",
     "location": "江戸川区総合文化センター大ホール",
     "homeTeam": "km-tokyo",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202308111730",
