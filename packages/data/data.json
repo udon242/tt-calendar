@@ -100,8 +100,8 @@
     "location": "江戸川区総合文化センター大ホール",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "red-elf",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202308111800",
@@ -109,7 +109,7 @@
     "homeTeam": "kyusyu",
     "awayTeam": "np-mallets",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 4
   },
   {
     "start": "202308121100",
