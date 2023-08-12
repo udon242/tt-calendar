@@ -124,22 +124,24 @@
     "location": "ブレックスアリーナ宇都宮",
     "homeTeam": "tt-saitama",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
-    "awayScore": 2
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202308121400",
     "location": "金沢市総合体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "okayama",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202308121530",
     "location": "江戸川区総合文化センター大ホール",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202308131300",
