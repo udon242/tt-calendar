@@ -115,7 +115,9 @@
     "start": "202308121100",
     "location": "江戸川区総合文化センター大ホール",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202308121400",
