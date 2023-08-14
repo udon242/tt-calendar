@@ -163,7 +163,9 @@
     "start": "202308141830",
     "location": "大田区総合体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202308151830",
