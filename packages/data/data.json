@@ -188,14 +188,16 @@
     "location": "小松総合体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "ryukyu",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202308191700",
     "location": "イオンレイクタウン",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202308201300",
