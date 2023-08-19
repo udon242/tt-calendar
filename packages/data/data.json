@@ -179,7 +179,9 @@
     "start": "202308191200",
     "location": "イオンレイクタウン",
     "homeTeam": "kyoto",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202308191400",
