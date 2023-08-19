@@ -180,14 +180,16 @@
     "location": "イオンレイクタウン",
     "homeTeam": "kyoto",
     "awayTeam": "ka-kanagawa",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202308191400",
     "location": "小松総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202308191700",
