@@ -203,13 +203,17 @@
     "start": "202308201300",
     "location": "小松総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202308201400",
     "location": "イオンレイクタウン",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202308251830",
