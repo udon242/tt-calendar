@@ -219,7 +219,9 @@
     "start": "202308251830",
     "location": "グランフロント大阪",
     "homeTeam": "np-mallets",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202308261200",
