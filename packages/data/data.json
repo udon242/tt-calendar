@@ -227,7 +227,9 @@
     "start": "202308261200",
     "location": "グランフロント大阪",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202308261630",
