@@ -235,7 +235,9 @@
     "start": "202308261630",
     "location": "グランフロント大阪",
     "homeTeam": "shizuoka",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202308291900",
