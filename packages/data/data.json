@@ -243,7 +243,9 @@
     "start": "202308291900",
     "location": "代々木第二体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202308301400",
