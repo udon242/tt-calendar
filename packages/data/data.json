@@ -251,7 +251,9 @@
     "start": "202308301400",
     "location": "代々木第二体育館",
     "homeTeam": "okayama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202308301830",
