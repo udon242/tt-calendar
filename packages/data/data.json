@@ -259,7 +259,9 @@
     "start": "202308301830",
     "location": "代々木第二体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202310201830",
