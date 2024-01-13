@@ -24,20 +24,18 @@ const EXPORT_FILE_PATH = '../data/data.json';
     for (let i = 0; i < count; i++) {
       const tableRow = tableRows.nth(i).locator('td');
 
-      const date = extractDate(await tableRow.nth(0).innerText());
-      const startTime = extractStartTime(await tableRow.nth(1).innerText());
-      const start = `${date}${startTime}`;
+      const start = extractDate(await tableRow.nth(0).innerText());
 
       const homeTeam = convertTeamName(
-        (await tableRow.nth(3).innerText()).trim()
+        (await tableRow.nth(2).innerText()).trim()
       );
       const awayTeam = convertTeamName(
-        (await tableRow.nth(5).innerText()).trim()
+        (await tableRow.nth(4).innerText()).trim()
       );
-      const location = (await tableRow.nth(6).innerText()).trim();
+      const location = (await tableRow.nth(5).innerText()).trim();
 
-      const homeScore = extractHomeScore(await tableRow.nth(4).innerText());
-      const awayScore = extractAwayScore(await tableRow.nth(4).innerText());
+      const homeScore = extractHomeScore(await tableRow.nth(3).innerText());
+      const awayScore = extractAwayScore(await tableRow.nth(3).innerText());
 
       schedules.push(
         Schedule.parse({
