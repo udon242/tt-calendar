@@ -6,10 +6,13 @@ dayjs.locale('ja');
 
 export const extractDate = (rawDate: string) => {
   const date = dayjs(
-    rawDate.replace(' ', '').replace(/[^0-9]/g, ' '),
-    'YYYY M D'
+    rawDate
+      .replace(' ', '')
+      .replace(/[^0-9]/g, '')
+      .slice(0, 12),
+    'YYYYMMDDHHss'
   );
-  return date.format('YYYYMMDD');
+  return date.format('YYYYMMDDHHss');
 };
 
 export const extractStartTime = (rawData: string) => {
