@@ -751,7 +751,9 @@
     "start": "202401141400",
     "location": "ベイコム総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202402021800",
