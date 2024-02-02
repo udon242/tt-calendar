@@ -759,7 +759,9 @@
     "start": "202402021800",
     "location": "亀岡運動公園体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202402031100",
