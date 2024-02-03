@@ -792,7 +792,7 @@
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
     "awayTeam": "kanazawa",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
@@ -800,8 +800,8 @@
     "location": "亀岡運動公園体育館",
     "homeTeam": "kyoto",
     "awayTeam": "kyusyu",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202402041100",
