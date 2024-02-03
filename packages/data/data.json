@@ -776,8 +776,8 @@
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "red-elf",
-    "homeScore": 1,
-    "awayScore": 2
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202402031400",
@@ -785,19 +785,23 @@
     "homeTeam": "tt-saitama",
     "awayTeam": "ryukyu",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202402031700",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202402031700",
     "location": "亀岡運動公園体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202402041100",
