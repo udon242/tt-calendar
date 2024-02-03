@@ -768,20 +768,24 @@
     "location": "東大阪アリーナ",
     "homeTeam": "np-mallets",
     "awayTeam": "top-nagoya",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202402031300",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202402031400",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202402031700",
