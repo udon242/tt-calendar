@@ -767,7 +767,9 @@
     "start": "202402031100",
     "location": "東大阪アリーナ",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202402031300",
