@@ -807,7 +807,9 @@
     "start": "202402041100",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202402041400",
