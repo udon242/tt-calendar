@@ -816,22 +816,24 @@
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
     "awayTeam": "kanazawa",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202402041400",
     "location": "東大阪アリーナ",
     "homeTeam": "np-mallets",
     "awayTeam": "red-elf",
-    "homeScore": 0,
-    "awayScore": 2
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202402041500",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202402101500",
