@@ -839,13 +839,17 @@
     "start": "202402101500",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202402101500",
     "location": "パロマ瑞穂アリーナ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202402111300",
