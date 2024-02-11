@@ -855,13 +855,17 @@
     "start": "202402111300",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202402111400",
     "location": "パロマ瑞穂アリーナ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202402121200",
