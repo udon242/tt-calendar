@@ -856,8 +856,8 @@
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "km-tokyo",
-    "homeScore": 2,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202402111400",
@@ -865,7 +865,7 @@
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 4
   },
   {
     "start": "202402121200",
