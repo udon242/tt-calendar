@@ -871,7 +871,9 @@
     "start": "202402121200",
     "location": "奥州市総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202402121400",
