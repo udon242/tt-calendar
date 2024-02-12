@@ -881,13 +881,15 @@
     "homeTeam": "top-nagoya",
     "awayTeam": "kyoto",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202402121600",
     "location": "奥州市総合体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202403021200",
