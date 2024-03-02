@@ -897,13 +897,15 @@
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 4
   },
   {
     "start": "202403021400",
     "location": "福田公園体育館",
     "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202403021600",
