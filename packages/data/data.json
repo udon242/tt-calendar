@@ -904,20 +904,24 @@
     "location": "福田公園体育館",
     "homeTeam": "okayama",
     "awayTeam": "ryukyu",
-    "homeScore": 2,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202403021600",
     "location": "貝塚コスモスシアター",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202403021800",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202403031200",
