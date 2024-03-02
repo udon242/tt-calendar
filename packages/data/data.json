@@ -895,7 +895,9 @@
     "start": "202403021200",
     "location": "田川市総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202403021400",
