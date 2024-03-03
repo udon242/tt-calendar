@@ -928,26 +928,32 @@
     "location": "貝塚コスモスシアター",
     "homeTeam": "red-elf",
     "awayTeam": "top-nagoya",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202403031300",
     "location": "田川市総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202403031400",
     "location": "福田公園体育館",
     "homeTeam": "okayama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202403031800",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202403051800",
