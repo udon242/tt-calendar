@@ -927,7 +927,9 @@
     "start": "202403031200",
     "location": "貝塚コスモスシアター",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202403031300",
