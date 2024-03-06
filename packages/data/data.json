@@ -967,7 +967,9 @@
     "start": "202403061800",
     "location": "イオンモール茨木 ジョイプラザ",
     "homeTeam": "kanazawa",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202403221900",
