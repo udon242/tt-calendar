@@ -983,7 +983,9 @@
     "start": "202403231200",
     "location": "代々木第二体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202403231800",
