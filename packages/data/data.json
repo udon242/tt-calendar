@@ -283,12 +283,6 @@
   },
   {
     "start": "202411020000",
-    "location": "イオンモール岡山",
-    "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
-  },
-  {
-    "start": "202411020000",
     "location": "三島市民文化会館（ゆうゆうホール）",
     "homeTeam": "shizuoka",
     "awayTeam": "km-tokyo"
@@ -309,7 +303,7 @@
     "start": "202411030000",
     "location": "イオンモール岡山",
     "homeTeam": "okayama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "ryukyu"
   },
   {
     "start": "202411030000",
@@ -328,6 +322,12 @@
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
     "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202411040000",
+    "location": "イオンモール岡山",
+    "homeTeam": "okayama",
+    "awayTeam": "kanazawa"
   },
   {
     "start": "202411090000",
