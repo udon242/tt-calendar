@@ -877,26 +877,26 @@
   },
   {
     "start": "202503150000",
+    "location": "三好公園総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202503150000",
     "location": "小松市総合体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "tt-saitama"
   },
   {
-    "start": "202503151500",
+    "start": "202503160000",
     "location": "三好公園総合体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyoto"
+    "awayTeam": "ka-kanagawa"
   },
   {
     "start": "202503160000",
     "location": "小松市総合体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "okayama"
-  },
-  {
-    "start": "202503161400",
-    "location": "三好公園総合体育館",
-    "homeTeam": "top-nagoya",
-    "awayTeam": "ka-kanagawa"
   }
 ]
