@@ -415,12 +415,6 @@
   },
   {
     "start": "202411230000",
-    "location": "",
-    "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
-  },
-  {
-    "start": "202411230000",
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
     "awayTeam": "tt-saitama"
@@ -430,12 +424,6 @@
     "location": "高松市総合体育館",
     "homeTeam": "np-mallets",
     "awayTeam": "red-elf"
-  },
-  {
-    "start": "202411240000",
-    "location": "",
-    "homeTeam": "ryukyu",
-    "awayTeam": "km-tokyo"
   },
   {
     "start": "202411240000",
@@ -547,9 +535,21 @@
   },
   {
     "start": "202412140000",
+    "location": "宜野湾市立体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202412140000",
     "location": "田川市総合体育館",
     "homeTeam": "kyusyu",
     "awayTeam": "kyoto"
+  },
+  {
+    "start": "202412150000",
+    "location": "宜野湾市立体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "shizuoka"
   },
   {
     "start": "202412270000",
@@ -882,9 +882,21 @@
     "awayTeam": "tt-saitama"
   },
   {
+    "start": "202503151500",
+    "location": "三好公園総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "kyoto"
+  },
+  {
     "start": "202503160000",
     "location": "小松市総合体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "okayama"
+  },
+  {
+    "start": "202503161400",
+    "location": "三好公園総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "ka-kanagawa"
   }
 ]
