@@ -73,12 +73,6 @@
   },
   {
     "start": "202409211300",
-    "location": "岡山武道館",
-    "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
-  },
-  {
-    "start": "202409211300",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
     "awayTeam": "kanazawa"
@@ -88,6 +82,12 @@
     "location": "大阪市住吉スポーツセンター",
     "homeTeam": "np-mallets",
     "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202409211400",
+    "location": "岡山武道館",
+    "homeTeam": "okayama",
+    "awayTeam": "ryukyu"
   },
   {
     "start": "202409211800",
