@@ -1,1 +1,902 @@
-[]
+[
+  {
+    "start": "202408241400",
+    "location": "代々木第二体育館",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202408251400",
+    "location": "代々木第二体育館",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202408311400",
+    "location": "飯塚市総合体育館",
+    "homeTeam": "kyusyu",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202408311500",
+    "location": "那覇市民体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202409011300",
+    "location": "那覇市民体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202409011300",
+    "location": "飯塚市総合体育館",
+    "homeTeam": "kyusyu",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202409071500",
+    "location": "浦和駒場体育館",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202409071600",
+    "location": "富士宮市民体育館",
+    "homeTeam": "shizuoka",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202409071600",
+    "location": "KBSホール",
+    "homeTeam": "kyoto",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202409081400",
+    "location": "富士宮市民体育館",
+    "homeTeam": "shizuoka",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202409081400",
+    "location": "KBSホール",
+    "homeTeam": "kyoto",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202409081500",
+    "location": "浦和駒場体育館",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202409211300",
+    "location": "カルッツかわさき",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202409211300",
+    "location": "大阪市住吉スポーツセンター",
+    "homeTeam": "np-mallets",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202409211400",
+    "location": "岡山武道館",
+    "homeTeam": "okayama",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202409211800",
+    "location": "カルッツかわさき",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202409221100",
+    "location": "カルッツかわさき",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202409221300",
+    "location": "岡山武道館",
+    "homeTeam": "okayama",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202409221300",
+    "location": "大阪市住吉スポーツセンター",
+    "homeTeam": "np-mallets",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202409221600",
+    "location": "カルッツかわさき",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202409271800",
+    "location": "パルドラール浦安アリーナ",
+    "homeTeam": "red-elf",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202409281300",
+    "location": "パルドラール浦安アリーナ",
+    "homeTeam": "red-elf",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202409281400",
+    "location": "静岡県コンベンションアーツセンター（グランシップ）",
+    "homeTeam": "shizuoka",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202409281400",
+    "location": "おおむたアリーナ",
+    "homeTeam": "kyusyu",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202409281500",
+    "location": "那覇市民体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202409291300",
+    "location": "静岡県コンベンションアーツセンター（グランシップ）",
+    "homeTeam": "shizuoka",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202409291300",
+    "location": "おおむたアリーナ",
+    "homeTeam": "kyusyu",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202409291400",
+    "location": "那覇市民体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202410120000",
+    "location": "J:COMアリーナ下関",
+    "homeTeam": "ryukyu",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202410130000",
+    "location": "J:COMアリーナ下関",
+    "homeTeam": "kyusyu",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202410190000",
+    "location": "浦和駒場体育館",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202410190000",
+    "location": "津山総合体育館",
+    "homeTeam": "okayama",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202410190000",
+    "location": "松山市総合コミュニティセンター",
+    "homeTeam": "red-elf",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202410190000",
+    "location": "ららぽーとEXPOCITY",
+    "homeTeam": "np-mallets",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202410200000",
+    "location": "浦和駒場体育館",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202410200000",
+    "location": "津山総合体育館",
+    "homeTeam": "okayama",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202410200000",
+    "location": "松山市総合コミュニティセンター",
+    "homeTeam": "red-elf",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202410200000",
+    "location": "ららぽーとEXPOCITY",
+    "homeTeam": "np-mallets",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202410250000",
+    "location": "小松市末広体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202410260000",
+    "location": "小松市末広体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202410260000",
+    "location": "イオン新浦安ショッピングセンター",
+    "homeTeam": "np-mallets",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202410260000",
+    "location": "感謝と挑戦のTYK体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202410270000",
+    "location": "小松市末広体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202410270000",
+    "location": "イオン新浦安ショッピングセンター",
+    "homeTeam": "okayama",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202410270000",
+    "location": "感謝と挑戦のTYK体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202411020000",
+    "location": "三島市民文化会館（ゆうゆうホール）",
+    "homeTeam": "shizuoka",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202411020000",
+    "location": "アスリートタウン延岡アリーナ",
+    "homeTeam": "kyusyu",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202411020000",
+    "location": "山科地域体育館",
+    "homeTeam": "kyoto",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202411030000",
+    "location": "イオンモール岡山",
+    "homeTeam": "okayama",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202411030000",
+    "location": "三島市民文化会館（ゆうゆうホール）",
+    "homeTeam": "shizuoka",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202411030000",
+    "location": "アスリートタウン延岡アリーナ",
+    "homeTeam": "kyusyu",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202411030000",
+    "location": "山科地域体育館",
+    "homeTeam": "kyoto",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202411040000",
+    "location": "イオンモール岡山",
+    "homeTeam": "okayama",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202411090000",
+    "location": "那覇市民体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202411090000",
+    "location": "とどろきアリーナ",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202411090000",
+    "location": "とどろきアリーナ",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202411090000",
+    "location": "コジマHD中区スポーツセンター",
+    "homeTeam": "red-elf",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202411100000",
+    "location": "那覇市民体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202411100000",
+    "location": "コジマHD中区スポーツセンター",
+    "homeTeam": "red-elf",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202411150000",
+    "location": "三郷市文化会館",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202411150000",
+    "location": "金沢市総合体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202411160000",
+    "location": "三郷市文化会館",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202411160000",
+    "location": "金沢市総合体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202411160000",
+    "location": "パロマ瑞穂アリーナ",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202411160000",
+    "location": "山科地域体育館",
+    "homeTeam": "kyoto",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202411170000",
+    "location": "三郷市文化会館",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202411170000",
+    "location": "金沢市総合体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202411170000",
+    "location": "パロマ瑞穂アリーナ",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202411170000",
+    "location": "山科地域体育館",
+    "homeTeam": "kyoto",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202411230000",
+    "location": "笠岡総合体育館",
+    "homeTeam": "okayama",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202411230000",
+    "location": "高松市総合体育館",
+    "homeTeam": "np-mallets",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202411240000",
+    "location": "笠岡総合体育館",
+    "homeTeam": "okayama",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202411240000",
+    "location": "高松市総合体育館",
+    "homeTeam": "np-mallets",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202411290000",
+    "location": "KBSホール",
+    "homeTeam": "kyoto",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202411300000",
+    "location": "かほくアリーナ",
+    "homeTeam": "kanazawa",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202411300000",
+    "location": "静岡県コンベンションアーツセンター（グランシップ）",
+    "homeTeam": "shizuoka",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202411300000",
+    "location": "KBSホール",
+    "homeTeam": "kyoto",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202411300000",
+    "location": "春日井市総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202412010000",
+    "location": "かほくアリーナ",
+    "homeTeam": "kanazawa",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202412010000",
+    "location": "静岡県コンベンションアーツセンター（グランシップ）",
+    "homeTeam": "shizuoka",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202412010000",
+    "location": "春日井市総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202412070000",
+    "location": "深谷ビッグタートル",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202412070000",
+    "location": "平塚総合体育館",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202412070000",
+    "location": "貝塚コスモスシアター",
+    "homeTeam": "red-elf",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202412070000",
+    "location": "平塚総合体育館",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202412080000",
+    "location": "深谷ビッグタートル",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202412080000",
+    "location": "平塚総合体育館",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202412080000",
+    "location": "平塚総合体育館",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202412130000",
+    "location": "田川市総合体育館",
+    "homeTeam": "kyusyu",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202412140000",
+    "location": "宜野湾市立体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202412140000",
+    "location": "田川市総合体育館",
+    "homeTeam": "kyusyu",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202412150000",
+    "location": "宜野湾市立体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202412270000",
+    "location": "静岡県コンベンションアーツセンター（グランシップ）",
+    "homeTeam": "shizuoka",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202412280000",
+    "location": "静岡県コンベンションアーツセンター（グランシップ）",
+    "homeTeam": "shizuoka",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202412280000",
+    "location": "代々木第二体育館",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202412280000",
+    "location": "代々木第二体育館",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202412290000",
+    "location": "代々木第二体育館",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202412290000",
+    "location": "代々木第二体育館",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202501040000",
+    "location": "北ガスアリーナ札幌46",
+    "homeTeam": "red-elf",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202501050000",
+    "location": "北ガスアリーナ札幌46",
+    "homeTeam": "red-elf",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202501110000",
+    "location": "宜野湾市立体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202501110000",
+    "location": "雲仙市小浜体育館",
+    "homeTeam": "kyusyu",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202501110000",
+    "location": "東大阪アリーナ",
+    "homeTeam": "np-mallets",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202501120000",
+    "location": "宜野湾市立体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202501120000",
+    "location": "雲仙市小浜体育館",
+    "homeTeam": "kyusyu",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202501120000",
+    "location": "東大阪アリーナ",
+    "homeTeam": "np-mallets",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202502080000",
+    "location": "",
+    "homeTeam": "kanazawa",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202502080000",
+    "location": "岡山武道館",
+    "homeTeam": "okayama",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202502080000",
+    "location": "春日井市総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202502080000",
+    "location": "",
+    "homeTeam": "kyoto",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202502090000",
+    "location": "",
+    "homeTeam": "kanazawa",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202502090000",
+    "location": "岡山武道館",
+    "homeTeam": "okayama",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202502090000",
+    "location": "春日井市総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202502090000",
+    "location": "",
+    "homeTeam": "kyoto",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202502110000",
+    "location": "バタフライアリーナ",
+    "homeTeam": "red-elf",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202502150000",
+    "location": "磐田市民文化会館かたりあ",
+    "homeTeam": "shizuoka",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202502150000",
+    "location": "KBSホール",
+    "homeTeam": "kyoto",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202502150000",
+    "location": "守口市民体育館",
+    "homeTeam": "np-mallets",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202502160000",
+    "location": "磐田市民文化会館かたりあ",
+    "homeTeam": "shizuoka",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202502160000",
+    "location": "KBSホール",
+    "homeTeam": "kyoto",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202502160000",
+    "location": "守口市民体育館",
+    "homeTeam": "np-mallets",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202502210000",
+    "location": "サンシティ越谷市民ホール",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202502220000",
+    "location": "サンシティ越谷市民ホール",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202502220000",
+    "location": "船橋アリーナ",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "okayama"
+  },
+  {
+    "start": "202502220000",
+    "location": "船橋アリーナ",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202502220000",
+    "location": "ベイコム総合体育館",
+    "homeTeam": "np-mallets",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202502230000",
+    "location": "サンシティ越谷市民ホール",
+    "homeTeam": "tt-saitama",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202502230000",
+    "location": "船橋アリーナ",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202502230000",
+    "location": "船橋アリーナ",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202502230000",
+    "location": "ベイコム総合体育館",
+    "homeTeam": "np-mallets",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202502240000",
+    "location": "船橋アリーナ",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202502240000",
+    "location": "船橋アリーナ",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202503010000",
+    "location": "福岡市民体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202503010000",
+    "location": "パロマ瑞穂アリーナ",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "red-elf"
+  },
+  {
+    "start": "202503010000",
+    "location": "福岡市民体育館",
+    "homeTeam": "kyusyu",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202503020000",
+    "location": "福岡市民体育館",
+    "homeTeam": "ryukyu",
+    "awayTeam": "km-tokyo"
+  },
+  {
+    "start": "202503020000",
+    "location": "パロマ瑞穂アリーナ",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202503020000",
+    "location": "福岡市民体育館",
+    "homeTeam": "kyusyu",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202503080000",
+    "location": "福田公園体育館",
+    "homeTeam": "okayama",
+    "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202503080000",
+    "location": "駒沢屋内競技場",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202503080000",
+    "location": "駒沢屋内競技場",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202503080000",
+    "location": "立命館いばらきフューチャープラザ",
+    "homeTeam": "red-elf",
+    "awayTeam": "kyusyu"
+  },
+  {
+    "start": "202503090000",
+    "location": "福田公園体育館",
+    "homeTeam": "okayama",
+    "awayTeam": "ryukyu"
+  },
+  {
+    "start": "202503090000",
+    "location": "駒沢屋内競技場",
+    "homeTeam": "km-tokyo",
+    "awayTeam": "kanazawa"
+  },
+  {
+    "start": "202503090000",
+    "location": "駒沢屋内競技場",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202503090000",
+    "location": "立命館いばらきフューチャープラザ",
+    "homeTeam": "red-elf",
+    "awayTeam": "np-mallets"
+  },
+  {
+    "start": "202503150000",
+    "location": "三好公園総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "kyoto"
+  },
+  {
+    "start": "202503150000",
+    "location": "小松市総合体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "tt-saitama"
+  },
+  {
+    "start": "202503160000",
+    "location": "三好公園総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202503160000",
+    "location": "小松市総合体育館",
+    "homeTeam": "kanazawa",
+    "awayTeam": "okayama"
+  }
+]
