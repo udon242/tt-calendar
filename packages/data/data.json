@@ -3,7 +3,9 @@
     "start": "202408241400",
     "location": "代々木第二体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202408251400",
