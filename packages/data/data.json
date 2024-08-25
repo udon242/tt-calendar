@@ -12,8 +12,8 @@
     "location": "代々木第二体育館",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "red-elf",
-    "homeScore": 2,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202408311400",
@@ -125,13 +125,13 @@
   },
   {
     "start": "202409271800",
-    "location": "パルドラール浦安アリーナ",
+    "location": "バルドラール浦安アリーナ",
     "homeTeam": "red-elf",
     "awayTeam": "kyoto"
   },
   {
     "start": "202409281300",
-    "location": "パルドラール浦安アリーナ",
+    "location": "バルドラール浦安アリーナ",
     "homeTeam": "red-elf",
     "awayTeam": "np-mallets"
   },
