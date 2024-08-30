@@ -215,15 +215,15 @@
   },
   {
     "start": "202410201300",
-    "location": "ららぽーとEXPOCITY",
-    "homeTeam": "np-mallets",
-    "awayTeam": "kyoto"
-  },
-  {
-    "start": "202410201300",
     "location": "松山市総合コミュニティセンター",
     "homeTeam": "red-elf",
     "awayTeam": "ka-kanagawa"
+  },
+  {
+    "start": "202410201400",
+    "location": "ららぽーとEXPOCITY",
+    "homeTeam": "np-mallets",
+    "awayTeam": "kyoto"
   },
   {
     "start": "202410201500",
