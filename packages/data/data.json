@@ -19,13 +19,17 @@
     "start": "202408311400",
     "location": "飯塚市総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202408311500",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202409011300",
