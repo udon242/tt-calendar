@@ -35,13 +35,17 @@
     "start": "202409011300",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202409011300",
     "location": "飯塚市総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202409071500",
