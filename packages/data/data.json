@@ -648,22 +648,22 @@
     "awayTeam": "kanazawa"
   },
   {
-    "start": "202502081200",
-    "location": "",
-    "homeTeam": "kanazawa",
-    "awayTeam": "ryukyu"
-  },
-  {
-    "start": "202502081300",
+    "start": "202502080000",
     "location": "岡山武道館",
     "homeTeam": "okayama",
     "awayTeam": "tt-saitama"
   },
   {
-    "start": "202502081400",
+    "start": "202502080000",
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
     "awayTeam": "red-elf"
+  },
+  {
+    "start": "202502081200",
+    "location": "",
+    "homeTeam": "kanazawa",
+    "awayTeam": "ryukyu"
   },
   {
     "start": "202502081800",
