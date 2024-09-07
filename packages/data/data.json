@@ -53,19 +53,23 @@
     "homeTeam": "tt-saitama",
     "awayTeam": "okayama",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 3
   },
   {
     "start": "202409071600",
     "location": "富士宮市民体育館",
     "homeTeam": "shizuoka",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202409071600",
     "location": "KBSホール",
     "homeTeam": "kyoto",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202409081400",
