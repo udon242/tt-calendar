@@ -51,7 +51,9 @@
     "start": "202409071500",
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202409071600",
