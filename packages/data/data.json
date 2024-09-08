@@ -76,8 +76,8 @@
     "location": "富士宮市民体育館",
     "homeTeam": "shizuoka",
     "awayTeam": "kanazawa",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202409081400",
@@ -85,15 +85,15 @@
     "homeTeam": "kyoto",
     "awayTeam": "top-nagoya",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 4
   },
   {
     "start": "202409081500",
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
     "awayTeam": "km-tokyo",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202409211300",
