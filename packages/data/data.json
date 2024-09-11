@@ -684,6 +684,12 @@
     "awayTeam": "ka-kanagawa"
   },
   {
+    "start": "202502090000",
+    "location": "春日井市総合体育館",
+    "homeTeam": "top-nagoya",
+    "awayTeam": "kyusyu"
+  },
+  {
     "start": "202502091300",
     "location": "",
     "homeTeam": "kanazawa",
@@ -694,12 +700,6 @@
     "location": "岡山武道館",
     "homeTeam": "okayama",
     "awayTeam": "km-tokyo"
-  },
-  {
-    "start": "202502091400",
-    "location": "春日井市総合体育館",
-    "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
   },
   {
     "start": "202502091400",
