@@ -108,8 +108,8 @@
     "location": "大阪市住吉スポーツセンター",
     "homeTeam": "np-mallets",
     "awayTeam": "kyusyu",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202409211400",
@@ -117,13 +117,15 @@
     "homeTeam": "okayama",
     "awayTeam": "ryukyu",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202409211800",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202409221100",
