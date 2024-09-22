@@ -131,7 +131,9 @@
     "start": "202409221100",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202409221300",
