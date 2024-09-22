@@ -132,20 +132,24 @@
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
     "awayTeam": "tt-saitama",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202409221300",
     "location": "岡山武道館",
     "homeTeam": "okayama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202409221300",
     "location": "大阪市住吉スポーツセンター",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202409221600",
