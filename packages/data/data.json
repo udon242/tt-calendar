@@ -140,7 +140,7 @@
     "location": "岡山武道館",
     "homeTeam": "okayama",
     "awayTeam": "shizuoka",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
@@ -148,14 +148,16 @@
     "location": "大阪市住吉スポーツセンター",
     "homeTeam": "np-mallets",
     "awayTeam": "top-nagoya",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202409221600",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202409271800",
