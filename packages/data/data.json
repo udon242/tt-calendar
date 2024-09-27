@@ -163,7 +163,9 @@
     "start": "202409271800",
     "location": "バルドラール浦安アリーナ",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202409281300",
