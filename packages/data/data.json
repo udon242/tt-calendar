@@ -172,16 +172,16 @@
     "location": "バルドラール浦安アリーナ",
     "homeTeam": "red-elf",
     "awayTeam": "np-mallets",
-    "homeScore": 1,
-    "awayScore": 2
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202409281400",
     "location": "静岡県コンベンションアーツセンター（グランシップ）",
     "homeTeam": "shizuoka",
     "awayTeam": "km-tokyo",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202409281400",
@@ -189,15 +189,15 @@
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 4
   },
   {
     "start": "202409281500",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "tt-saitama",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202409291300",
