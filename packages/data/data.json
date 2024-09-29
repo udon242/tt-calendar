@@ -203,19 +203,25 @@
     "start": "202409291300",
     "location": "静岡県コンベンションアーツセンター（グランシップ）",
     "homeTeam": "shizuoka",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202409291300",
     "location": "おおむたアリーナ",
     "homeTeam": "kyusyu",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202409291400",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202410121400",
