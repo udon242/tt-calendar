@@ -542,12 +542,6 @@
     "awayTeam": "kyoto"
   },
   {
-    "start": "202412071100",
-    "location": "貝塚コスモスシアター",
-    "homeTeam": "red-elf",
-    "awayTeam": "kyusyu"
-  },
-  {
     "start": "202412071300",
     "location": "平塚総合体育館",
     "homeTeam": "km-tokyo",
@@ -606,6 +600,12 @@
     "location": "宜野湾市立体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "shizuoka"
+  },
+  {
+    "start": "202412261700",
+    "location": "貝塚コスモスシアター",
+    "homeTeam": "red-elf",
+    "awayTeam": "kyusyu"
   },
   {
     "start": "202412271700",
