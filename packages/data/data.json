@@ -542,7 +542,7 @@
     "awayTeam": "kyoto"
   },
   {
-    "start": "202412071300",
+    "start": "202412071200",
     "location": "平塚総合体育館",
     "homeTeam": "km-tokyo",
     "awayTeam": "shizuoka"
@@ -554,7 +554,7 @@
     "awayTeam": "ryukyu"
   },
   {
-    "start": "202412071800",
+    "start": "202412071700",
     "location": "平塚総合体育館",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "top-nagoya"
@@ -614,7 +614,7 @@
     "awayTeam": "okayama"
   },
   {
-    "start": "202412281300",
+    "start": "202412281100",
     "location": "代々木第二体育館",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "kyoto"
@@ -626,7 +626,7 @@
     "awayTeam": "kanazawa"
   },
   {
-    "start": "202412281800",
+    "start": "202412281600",
     "location": "代々木第二体育館",
     "homeTeam": "km-tokyo",
     "awayTeam": "tt-saitama"
@@ -698,7 +698,7 @@
     "awayTeam": "ryukyu"
   },
   {
-    "start": "202502081300",
+    "start": "202502081200",
     "location": "岡山武道館",
     "homeTeam": "okayama",
     "awayTeam": "tt-saitama"
@@ -788,7 +788,7 @@
     "awayTeam": "ryukyu"
   },
   {
-    "start": "202502221300",
+    "start": "202502221200",
     "location": "船橋アリーナ",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "kyusyu"
@@ -806,13 +806,13 @@
     "awayTeam": "shizuoka"
   },
   {
-    "start": "202502221600",
+    "start": "202502221700",
     "location": "船橋アリーナ",
     "homeTeam": "km-tokyo",
     "awayTeam": "okayama"
   },
   {
-    "start": "202502231300",
+    "start": "202502231200",
     "location": "船橋アリーナ",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "top-nagoya"
@@ -830,7 +830,7 @@
     "awayTeam": "kanazawa"
   },
   {
-    "start": "202502231600",
+    "start": "202502231700",
     "location": "船橋アリーナ",
     "homeTeam": "km-tokyo",
     "awayTeam": "ryukyu"
@@ -884,16 +884,16 @@
     "awayTeam": "km-tokyo"
   },
   {
+    "start": "202503081200",
+    "location": "駒沢屋内競技場",
+    "homeTeam": "ka-kanagawa",
+    "awayTeam": "kyoto"
+  },
+  {
     "start": "202503081300",
     "location": "福田公園体育館",
     "homeTeam": "okayama",
     "awayTeam": "shizuoka"
-  },
-  {
-    "start": "202503081300",
-    "location": "駒沢屋内競技場",
-    "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
   },
   {
     "start": "202503081600",
@@ -902,7 +902,7 @@
     "awayTeam": "kyusyu"
   },
   {
-    "start": "202503081800",
+    "start": "202503081700",
     "location": "駒沢屋内競技場",
     "homeTeam": "km-tokyo",
     "awayTeam": "tt-saitama"
