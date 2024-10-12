@@ -227,7 +227,9 @@
     "start": "202410121400",
     "location": "J:COMアリーナ下関",
     "homeTeam": "ryukyu",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202410131400",
