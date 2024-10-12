@@ -502,6 +502,12 @@
     "awayTeam": "red-elf"
   },
   {
+    "start": "202411300000",
+    "location": "KBSホール",
+    "homeTeam": "kyoto",
+    "awayTeam": "ka-kanagawa"
+  },
+  {
     "start": "202411301200",
     "location": "かほく市総合体育館（とり野菜みそBLUECATS ARENA）",
     "homeTeam": "kanazawa",
@@ -518,12 +524,6 @@
     "location": "春日井市総合体育館",
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets"
-  },
-  {
-    "start": "202411301800",
-    "location": "KBSホール",
-    "homeTeam": "kyoto",
-    "awayTeam": "ka-kanagawa"
   },
   {
     "start": "202412011300",
@@ -610,7 +610,7 @@
     "awayTeam": "kyusyu"
   },
   {
-    "start": "202412271700",
+    "start": "202412270000",
     "location": "静岡県コンベンションアーツセンター（グランシップ）",
     "homeTeam": "shizuoka",
     "awayTeam": "okayama"
