@@ -235,7 +235,9 @@
     "start": "202410131400",
     "location": "J:COMアリーナ下関",
     "homeTeam": "kyusyu",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202410191200",
