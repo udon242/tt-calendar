@@ -260,14 +260,16 @@
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202410191800",
     "location": "松山市総合コミュニティセンター",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202410201300",
