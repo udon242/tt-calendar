@@ -285,14 +285,14 @@
     "homeTeam": "red-elf",
     "awayTeam": "ka-kanagawa",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202410201400",
     "location": "ららぽーとEXPOCITY",
     "homeTeam": "np-mallets",
     "awayTeam": "kyoto",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
@@ -300,8 +300,8 @@
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
     "awayTeam": "ryukyu",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202410251800",
