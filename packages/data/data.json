@@ -275,25 +275,33 @@
     "start": "202410201300",
     "location": "津山総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202410201300",
     "location": "松山市総合コミュニティセンター",
     "homeTeam": "red-elf",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202410201400",
     "location": "ららぽーとEXPOCITY",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202410201500",
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202410251800",
