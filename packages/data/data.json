@@ -307,7 +307,9 @@
     "start": "202410251800",
     "location": "小松市末広体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202410261400",
