@@ -316,7 +316,7 @@
     "location": "イオン新浦安ショッピングセンター",
     "homeTeam": "np-mallets",
     "awayTeam": "kyoto",
-    "homeScore": 3,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
@@ -324,7 +324,7 @@
     "location": "小松市末広体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
@@ -332,8 +332,8 @@
     "location": "感謝と挑戦のTYK体育館",
     "homeTeam": "top-nagoya",
     "awayTeam": "kyusyu",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202410271400",
