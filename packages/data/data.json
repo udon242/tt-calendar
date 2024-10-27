@@ -339,19 +339,25 @@
     "start": "202410271400",
     "location": "小松市末広体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202410271400",
     "location": "イオン新浦安ショッピングセンター",
     "homeTeam": "okayama",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202410271400",
     "location": "感謝と挑戦のTYK体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202411021400",
