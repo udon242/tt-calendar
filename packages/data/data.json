@@ -340,7 +340,7 @@
     "location": "小松市末広体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "km-tokyo",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
@@ -348,7 +348,7 @@
     "location": "イオン新浦安ショッピングセンター",
     "homeTeam": "okayama",
     "awayTeam": "tt-saitama",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
@@ -356,8 +356,8 @@
     "location": "感謝と挑戦のTYK体育館",
     "homeTeam": "top-nagoya",
     "awayTeam": "red-elf",
-    "homeScore": 2,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202411021400",
