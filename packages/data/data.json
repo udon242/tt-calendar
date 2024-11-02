@@ -363,19 +363,25 @@
     "start": "202411021400",
     "location": "三島市民文化会館（ゆうゆうホール）",
     "homeTeam": "shizuoka",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202411021400",
     "location": "アスリートタウン延岡アリーナ",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202411021400",
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202411031200",
