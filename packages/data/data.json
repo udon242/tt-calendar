@@ -389,19 +389,23 @@
     "homeTeam": "kyusyu",
     "awayTeam": "np-mallets",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 3
   },
   {
     "start": "202411031300",
     "location": "イオンモール岡山",
     "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202411031300",
     "location": "三島市民文化会館（ゆうゆうホール）",
     "homeTeam": "shizuoka",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202411031800",
