@@ -387,7 +387,9 @@
     "start": "202411031200",
     "location": "アスリートタウン延岡アリーナ",
     "homeTeam": "kyusyu",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202411031300",
