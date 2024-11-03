@@ -411,7 +411,9 @@
     "start": "202411031800",
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202411041400",
