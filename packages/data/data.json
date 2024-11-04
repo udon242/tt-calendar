@@ -419,7 +419,9 @@
     "start": "202411041400",
     "location": "イオンモール岡山",
     "homeTeam": "okayama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202411091200",
