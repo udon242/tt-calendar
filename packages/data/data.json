@@ -427,7 +427,9 @@
     "start": "202411091200",
     "location": "とどろきアリーナ",
     "homeTeam": "km-tokyo",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202411091300",
