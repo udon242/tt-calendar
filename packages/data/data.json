@@ -444,14 +444,16 @@
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "shizuoka",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202411091700",
     "location": "とどろきアリーナ",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202411101300",
