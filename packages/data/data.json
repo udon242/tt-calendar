@@ -429,19 +429,23 @@
     "homeTeam": "km-tokyo",
     "awayTeam": "okayama",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 4
   },
   {
     "start": "202411091300",
     "location": "コジマHD中区スポーツセンター",
     "homeTeam": "red-elf",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202411091400",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202411091700",
