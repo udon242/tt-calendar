@@ -459,13 +459,17 @@
     "start": "202411101300",
     "location": "那覇市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202411101300",
     "location": "コジマHD中区スポーツセンター",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202411151800",
