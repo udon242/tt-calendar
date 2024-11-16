@@ -492,20 +492,24 @@
     "location": "パロマ瑞穂アリーナ",
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202411161400",
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202411161500",
     "location": "三郷市文化会館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202411161800",
