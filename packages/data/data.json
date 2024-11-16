@@ -491,7 +491,9 @@
     "start": "202411161200",
     "location": "パロマ瑞穂アリーナ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202411161400",
