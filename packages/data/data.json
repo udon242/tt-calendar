@@ -500,22 +500,24 @@
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
     "awayTeam": "kyusyu",
-    "homeScore": 1,
-    "awayScore": 2
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202411161500",
     "location": "三郷市文化会館",
     "homeTeam": "tt-saitama",
     "awayTeam": "shizuoka",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202411161800",
     "location": "金沢市総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202411171200",
