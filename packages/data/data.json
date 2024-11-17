@@ -532,22 +532,24 @@
     "location": "パロマ瑞穂アリーナ",
     "homeTeam": "top-nagoya",
     "awayTeam": "red-elf",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202411171500",
     "location": "三郷市文化会館",
     "homeTeam": "tt-saitama",
     "awayTeam": "km-tokyo",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202411171800",
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202411231300",
