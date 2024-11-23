@@ -557,13 +557,15 @@
     "homeTeam": "okayama",
     "awayTeam": "tt-saitama",
     "homeScore": 0,
-    "awayScore": 3
+    "awayScore": 4
   },
   {
     "start": "202411231700",
     "location": "高松市総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202411241200",
