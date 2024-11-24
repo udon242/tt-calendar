@@ -571,13 +571,17 @@
     "start": "202411241200",
     "location": "高松市総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202411241300",
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202411291800",
