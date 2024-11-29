@@ -587,7 +587,9 @@
     "start": "202411291800",
     "location": "KBSホール",
     "homeTeam": "kyoto",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202411301200",
