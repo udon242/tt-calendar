@@ -605,21 +605,23 @@
     "homeTeam": "shizuoka",
     "awayTeam": "okayama",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202411301500",
     "location": "春日井市総合体育館",
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202411301800",
     "location": "KBSホール",
     "homeTeam": "kyoto",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202412011300",
