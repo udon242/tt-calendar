@@ -652,14 +652,16 @@
     "location": "平塚総合体育館",
     "homeTeam": "km-tokyo",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202412071500",
     "location": "深谷ビッグタートル",
     "homeTeam": "tt-saitama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202412071700",
