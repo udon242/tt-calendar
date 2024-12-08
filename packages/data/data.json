@@ -684,14 +684,16 @@
     "location": "深谷ビッグタートル",
     "homeTeam": "tt-saitama",
     "awayTeam": "kanazawa",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202412081600",
     "location": "平塚総合体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202412131800",
