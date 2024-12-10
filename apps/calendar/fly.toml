@@ -13,6 +13,8 @@ kill_timeout = "5s"
 
 [build]
   builder = "heroku/builder:24"
+  [build.args]
+    NODE_VERSION = "20"
 
 [env]
   PORT = "8080"
