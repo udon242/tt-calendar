@@ -699,7 +699,9 @@
     "start": "202412131800",
     "location": "田川市総合体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202412141300",
