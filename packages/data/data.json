@@ -723,7 +723,9 @@
     "start": "202412151800",
     "location": "宜野湾市立体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202412261700",
