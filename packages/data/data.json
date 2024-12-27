@@ -739,7 +739,9 @@
     "start": "202412271700",
     "location": "静岡県コンベンションアーツセンター（グランシップ）",
     "homeTeam": "shizuoka",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202412281100",
