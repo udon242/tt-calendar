@@ -748,14 +748,16 @@
     "location": "代々木第二体育館",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "kyoto",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202412281400",
     "location": "静岡県コンベンションアーツセンター（グランシップ）",
     "homeTeam": "shizuoka",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202412281600",
