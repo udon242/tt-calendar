@@ -756,14 +756,16 @@
     "location": "静岡県コンベンションアーツセンター（グランシップ）",
     "homeTeam": "shizuoka",
     "awayTeam": "kanazawa",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202412281600",
     "location": "代々木第二体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202412291100",
