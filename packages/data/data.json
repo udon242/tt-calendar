@@ -747,7 +747,9 @@
     "start": "202412281100",
     "location": "代々木第二体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202412281400",
