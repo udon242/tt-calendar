@@ -812,16 +812,16 @@
     "location": "宜野湾市立体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "okayama",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202501111400",
     "location": "雲仙市小浜体育館",
     "homeTeam": "kyusyu",
     "awayTeam": "top-nagoya",
-    "homeScore": 0,
-    "awayScore": 2
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202501121300",
