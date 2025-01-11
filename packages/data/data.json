@@ -803,19 +803,25 @@
     "start": "202501111300",
     "location": "東大阪アリーナ",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202501111400",
     "location": "宜野湾市立体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202501111400",
     "location": "雲仙市小浜体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202501121300",
