@@ -827,19 +827,25 @@
     "start": "202501121300",
     "location": "雲仙市小浜体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202501121300",
     "location": "東大阪アリーナ",
     "homeTeam": "np-mallets",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202501121400",
     "location": "宜野湾市立体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202502081200",
