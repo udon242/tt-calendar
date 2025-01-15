@@ -1041,7 +1041,7 @@
   },
   {
     "start": "202503081200",
-    "location": "駒沢屋内競技場",
+    "location": "駒沢屋内球技場",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "kyoto"
   },
@@ -1059,13 +1059,13 @@
   },
   {
     "start": "202503081700",
-    "location": "駒沢屋内競技場",
+    "location": "駒沢屋内球技場",
     "homeTeam": "km-tokyo",
     "awayTeam": "tt-saitama"
   },
   {
     "start": "202503091100",
-    "location": "駒沢屋内競技場",
+    "location": "駒沢屋内球技場",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "top-nagoya"
   },
@@ -1083,7 +1083,7 @@
   },
   {
     "start": "202503091600",
-    "location": "駒沢屋内競技場",
+    "location": "駒沢屋内球技場",
     "homeTeam": "km-tokyo",
     "awayTeam": "kanazawa"
   },
