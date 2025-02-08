@@ -869,13 +869,15 @@
     "homeTeam": "kyoto",
     "awayTeam": "red-elf",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 4
   },
   {
     "start": "202502081800",
     "location": "春日井市総合体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202502091200",
