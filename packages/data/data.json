@@ -852,20 +852,24 @@
     "location": "いしかわ総合スポーツセンター",
     "homeTeam": "kanazawa",
     "awayTeam": "ryukyu",
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202502081200",
     "location": "岡山武道館",
     "homeTeam": "okayama",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202502081400",
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202502081800",
