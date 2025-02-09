@@ -900,14 +900,16 @@
     "location": "春日井市総合体育館",
     "homeTeam": "top-nagoya",
     "awayTeam": "kyusyu",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202502091800",
     "location": "山科地域体育館",
     "homeTeam": "kyoto",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202502111300",
