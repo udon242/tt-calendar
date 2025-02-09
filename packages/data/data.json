@@ -884,20 +884,24 @@
     "location": "いしかわ総合スポーツセンター",
     "homeTeam": "kanazawa",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202502091300",
     "location": "岡山武道館",
     "homeTeam": "okayama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202502091400",
     "location": "春日井市総合体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202502091800",
