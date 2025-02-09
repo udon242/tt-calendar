@@ -883,7 +883,9 @@
     "start": "202502091200",
     "location": "いしかわ総合スポーツセンター",
     "homeTeam": "kanazawa",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202502091300",
