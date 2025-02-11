@@ -915,7 +915,9 @@
     "start": "202502111300",
     "location": "バタフライアリーナ",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "start": "202502151400",
