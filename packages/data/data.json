@@ -923,13 +923,17 @@
     "start": "202502151400",
     "location": "磐田市民文化会館かたりあ",
     "homeTeam": "shizuoka",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202502151400",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202502151600",
