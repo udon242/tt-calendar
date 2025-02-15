@@ -924,22 +924,24 @@
     "location": "磐田市民文化会館かたりあ",
     "homeTeam": "shizuoka",
     "awayTeam": "tt-saitama",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202502151400",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
     "awayTeam": "top-nagoya",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202502151600",
     "location": "KBSホール",
     "homeTeam": "kyoto",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202502161300",
