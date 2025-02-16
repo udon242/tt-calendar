@@ -957,15 +957,15 @@
     "homeTeam": "kyoto",
     "awayTeam": "top-nagoya",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202502161400",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
     "awayTeam": "ka-kanagawa",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202502211800",
