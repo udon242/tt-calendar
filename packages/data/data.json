@@ -947,19 +947,25 @@
     "start": "202502161300",
     "location": "磐田市民文化会館かたりあ",
     "homeTeam": "shizuoka",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202502161400",
     "location": "KBSホール",
     "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202502161400",
     "location": "守口市民体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202502211800",
