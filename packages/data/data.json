@@ -971,7 +971,9 @@
     "start": "202502211800",
     "location": "サンシティ越谷市民ホール",
     "homeTeam": "tt-saitama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202502221200",
