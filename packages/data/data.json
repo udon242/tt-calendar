@@ -979,7 +979,9 @@
     "start": "202502221200",
     "location": "船橋アリーナ",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202502221300",
