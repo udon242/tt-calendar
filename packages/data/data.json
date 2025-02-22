@@ -989,21 +989,23 @@
     "homeTeam": "np-mallets",
     "awayTeam": "red-elf",
     "homeScore": 2,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202502221500",
     "location": "サンシティ越谷市民ホール",
     "homeTeam": "tt-saitama",
     "awayTeam": "shizuoka",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202502221700",
     "location": "船橋アリーナ",
     "homeTeam": "km-tokyo",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202502231200",
