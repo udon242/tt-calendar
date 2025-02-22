@@ -980,20 +980,24 @@
     "location": "船橋アリーナ",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "kyusyu",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202502221300",
     "location": "ベイコム総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202502221500",
     "location": "サンシティ越谷市民ホール",
     "homeTeam": "tt-saitama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202502221700",
