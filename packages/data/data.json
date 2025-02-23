@@ -1028,14 +1028,16 @@
     "location": "サンシティ越谷市民ホール",
     "homeTeam": "tt-saitama",
     "awayTeam": "kanazawa",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202502231700",
     "location": "船橋アリーナ",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202502241100",
