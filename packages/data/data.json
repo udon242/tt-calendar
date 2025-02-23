@@ -1012,20 +1012,24 @@
     "location": "船橋アリーナ",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "top-nagoya",
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202502231300",
     "location": "ベイコム総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202502231500",
     "location": "サンシティ越谷市民ホール",
     "homeTeam": "tt-saitama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202502231700",
