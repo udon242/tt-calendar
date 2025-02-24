@@ -1043,7 +1043,9 @@
     "start": "202502241100",
     "location": "船橋アリーナ",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202502241600",
