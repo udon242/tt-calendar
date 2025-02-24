@@ -1051,7 +1051,9 @@
     "start": "202502241600",
     "location": "船橋アリーナ",
     "homeTeam": "km-tokyo",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202503011300",
