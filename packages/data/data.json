@@ -1059,13 +1059,17 @@
     "start": "202503011300",
     "location": "福岡市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202503011500",
     "location": "パロマ瑞穂アリーナ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202503011800",
