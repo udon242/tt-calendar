@@ -1068,14 +1068,16 @@
     "location": "パロマ瑞穂アリーナ",
     "homeTeam": "top-nagoya",
     "awayTeam": "red-elf",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202503011800",
     "location": "福岡市民体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202503021200",
