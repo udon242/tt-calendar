@@ -1083,7 +1083,9 @@
     "start": "202503021200",
     "location": "福岡市民体育館",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202503021400",
