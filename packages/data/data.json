@@ -1085,13 +1085,15 @@
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 3
   },
   {
     "start": "202503021400",
     "location": "パロマ瑞穂アリーナ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202503021700",
