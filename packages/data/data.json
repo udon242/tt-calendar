@@ -1093,13 +1093,15 @@
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202503021700",
     "location": "福岡市民体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202503081200",
