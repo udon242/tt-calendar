@@ -1107,7 +1107,9 @@
     "start": "202503081200",
     "location": "駒沢屋内球技場",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202503081300",
