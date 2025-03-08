@@ -1108,14 +1108,16 @@
     "location": "駒沢屋内球技場",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "kyoto",
-    "homeScore": 0,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202503081300",
     "location": "福田公園体育館",
     "homeTeam": "okayama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202503081600",
