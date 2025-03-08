@@ -1123,13 +1123,17 @@
     "start": "202503081600",
     "location": "立命館いばらきフューチャープラザ",
     "homeTeam": "red-elf",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202503081700",
     "location": "駒沢屋内球技場",
     "homeTeam": "km-tokyo",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202503091100",
