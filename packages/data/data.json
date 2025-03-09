@@ -1140,20 +1140,24 @@
     "location": "駒沢屋内球技場",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "top-nagoya",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202503091300",
     "location": "福田公園体育館",
     "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202503091300",
     "location": "立命館いばらきフューチャープラザ",
     "homeTeam": "red-elf",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202503091600",
