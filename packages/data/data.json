@@ -1149,7 +1149,7 @@
     "homeTeam": "okayama",
     "awayTeam": "ryukyu",
     "homeScore": 2,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202503091300",
@@ -1157,13 +1157,15 @@
     "homeTeam": "red-elf",
     "awayTeam": "np-mallets",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202503091600",
     "location": "駒沢屋内球技場",
     "homeTeam": "km-tokyo",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202503151400",
