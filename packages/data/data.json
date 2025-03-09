@@ -1139,7 +1139,9 @@
     "start": "202503091100",
     "location": "駒沢屋内球技場",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202503091300",
