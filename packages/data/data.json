@@ -1171,13 +1171,17 @@
     "start": "202503151400",
     "location": "小松市総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202503151500",
     "location": "三好公園総合体育館",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202503161300",
