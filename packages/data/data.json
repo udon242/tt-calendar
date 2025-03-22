@@ -1203,7 +1203,9 @@
     "start": "202503221200",
     "location": "代々木第二体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202503221800",
