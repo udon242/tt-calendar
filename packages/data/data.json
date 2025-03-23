@@ -1227,6 +1227,8 @@
     "start": "202503231700",
     "location": "代々木第二体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 0
   }
 ]
