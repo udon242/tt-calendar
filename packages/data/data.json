@@ -1219,7 +1219,9 @@
     "start": "202503231100",
     "location": "代々木第二体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202503231700",
