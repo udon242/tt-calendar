@@ -1,4 +1,6 @@
-import Fastify, { FastifyInstance, RouteShorthandOptions } from 'fastify';
+import { Hono } from 'hono';
+import { serve } from '@hono/node-server';
+import type { MiddlewareHandler } from 'hono';
 
 import { getAllSchedule } from './service/all';
 import { getTTSaitamaSchedule } from './service/tt-saitama';
@@ -12,36 +14,37 @@ import { getRedElfSchedule } from './service/red-elf';
 import { getNPMalletsSchedule } from './service/np-mallets';
 import { getKyushuSchedule } from './service/kyushu';
 
-const server: FastifyInstance = Fastify({});
-const opts: RouteShorthandOptions = {
-  schema: {
-    // headers: {
-    //   'Content-type': 'text/calendar; charset=utf-8',
-    // },
-  },
+const app = new Hono();
+
+// 共通のミドルウェア：Content-typeヘッダーの設定
+const setCalendarContentType: MiddlewareHandler = async (c, next) => {
+  await next();
+  c.header('Content-Type', 'text/calendar; charset=utf-8');
+  return c;
 };
 
-server.get('/all', opts, async () => getAllSchedule());
-server.get('/ttsaitama', opts, async () => getTTSaitamaSchedule());
-server.get('/kmtokyo', opts, async () => getKMTokyoSchedule());
-server.get('/okayama', opts, async () => getOkayamaSchedule());
-server.get('/ryukyu', opts, async () => getRyukyuSchedule());
-server.get('/kakanagawa', opts, async () => getKAKanagawaSchedule());
-server.get('/topnagoya', opts, async () => getTopNagoyaSchedule());
-server.get('/kyoto', opts, async () => getKyotoSchedule());
-server.get('/redelf', opts, async () => getRedElfSchedule());
-server.get('/npmallets', opts, async () => getNPMalletsSchedule());
-server.get('/kyushu', opts, async () => getKyushuSchedule());
+// ミドルウェアを適用
+app.use('*', setCalendarContentType);
 
-const start = async () => {
-  try {
-    await server.listen(8080, '0.0.0.0');
-    const address = server.server.address();
-    const port = typeof address === 'string' ? address : address?.port;
-    server.log.info(`Server started. port=${port}}`);
-  } catch (err) {
-    server.log.error(`Server launch error. err=${JSON.stringify(err)}`);
-    process.exit(1);
-  }
-};
-start();
+// ルートの設定
+app.get('/all', (c) => c.body(getAllSchedule(), 200));
+app.get('/ttsaitama', (c) => c.body(getTTSaitamaSchedule(), 200));
+app.get('/kmtokyo', (c) => c.body(getKMTokyoSchedule(), 200));
+app.get('/okayama', (c) => c.body(getOkayamaSchedule(), 200));
+app.get('/ryukyu', (c) => c.body(getRyukyuSchedule(), 200));
+app.get('/kakanagawa', (c) => c.body(getKAKanagawaSchedule(), 200));
+app.get('/topnagoya', (c) => c.body(getTopNagoyaSchedule(), 200));
+app.get('/kyoto', (c) => c.body(getKyotoSchedule(), 200));
+app.get('/redelf', (c) => c.body(getRedElfSchedule(), 200));
+app.get('/npmallets', (c) => c.body(getNPMalletsSchedule(), 200));
+app.get('/kyushu', (c) => c.body(getKyushuSchedule(), 200));
+
+// サーバー起動
+console.log('Server starting on port 8080...');
+serve({
+  fetch: app.fetch,
+  port: 8080,
+  hostname: '0.0.0.0',
+}, (info) => {
+  console.log(`Server started. port=${info.port}`);
+});
