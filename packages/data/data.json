@@ -678,12 +678,6 @@
     "awayTeam": "np-mallets"
   },
   {
-    "start": "202601100000",
-    "location": "福岡市民ホール",
-    "homeTeam": "kyusyu",
-    "awayTeam": "top-nagoya"
-  },
-  {
     "start": "202601110000",
     "location": "横浜国際プール",
     "homeTeam": "km-tokyo",
@@ -706,6 +700,12 @@
     "location": "福岡市民ホール",
     "homeTeam": "kyusyu",
     "awayTeam": "kyoto"
+  },
+  {
+    "start": "202601120000",
+    "location": "福岡市民ホール",
+    "homeTeam": "kyusyu",
+    "awayTeam": "top-nagoya"
   },
   {
     "start": "202602070000",
