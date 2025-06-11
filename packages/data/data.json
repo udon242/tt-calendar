@@ -13,7 +13,7 @@
   },
   {
     "start": "202508010000",
-    "location": "KBSホール",
+    "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "ka-kanagawa"
   },
@@ -31,13 +31,13 @@
   },
   {
     "start": "202508020000",
-    "location": "KBSホール",
+    "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "np-mallets"
   },
   {
     "start": "202508020000",
-    "location": "",
+    "location": "邦和みなとスポーツ&カルチャー（名古屋市）",
     "homeTeam": "top-nagoya",
     "awayTeam": "kyusyu"
   },
@@ -55,7 +55,7 @@
   },
   {
     "start": "202508030000",
-    "location": "",
+    "location": "邦和みなとスポーツ&カルチャー（名古屋市）",
     "homeTeam": "top-nagoya",
     "awayTeam": "red-elf"
   },
@@ -145,7 +145,7 @@
   },
   {
     "start": "202508300000",
-    "location": "レゾナック武道センター",
+    "location": "レゾナック武道センター（大分市）",
     "homeTeam": "kyusyu",
     "awayTeam": "kyoto"
   },
@@ -163,7 +163,7 @@
   },
   {
     "start": "202508310000",
-    "location": "レゾナック武道センター",
+    "location": "レゾナック武道センター（大分市）",
     "homeTeam": "kyusyu",
     "awayTeam": "red-elf"
   },
@@ -247,13 +247,13 @@
   },
   {
     "start": "202509200000",
-    "location": "よつ葉アリーナ十勝",
+    "location": "よつ葉アリーナ十勝（帯広市）",
     "homeTeam": "km-tokyo",
     "awayTeam": "kanazawa"
   },
   {
     "start": "202509210000",
-    "location": "よつ葉アリーナ十勝",
+    "location": "よつ葉アリーナ十勝（帯広市）",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "top-nagoya"
   },
@@ -301,7 +301,7 @@
   },
   {
     "start": "202510110000",
-    "location": "",
+    "location": "イオンモール豊川",
     "homeTeam": "top-nagoya",
     "awayTeam": "kyusyu"
   },
@@ -319,19 +319,19 @@
   },
   {
     "start": "202510120000",
-    "location": "",
+    "location": "イオンモール豊川",
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets"
   },
   {
     "start": "202510120000",
-    "location": "山科地域体育館",
+    "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "ka-kanagawa"
   },
   {
     "start": "202510130000",
-    "location": "山科地域体育館",
+    "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "kyusyu"
   },
@@ -475,7 +475,7 @@
   },
   {
     "start": "202511150000",
-    "location": "感謝と挑戦のTYK体育館",
+    "location": "感謝と挑戦のTYK体育館（多治見市）",
     "homeTeam": "top-nagoya",
     "awayTeam": "red-elf"
   },
@@ -493,7 +493,7 @@
   },
   {
     "start": "202511160000",
-    "location": "感謝と挑戦のTYK体育館",
+    "location": "感謝と挑戦のTYK体育館（多治見市）",
     "homeTeam": "top-nagoya",
     "awayTeam": "ka-kanagawa"
   },
@@ -505,7 +505,7 @@
   },
   {
     "start": "202511220000",
-    "location": "KBSホール",
+    "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "top-nagoya"
   },
@@ -517,7 +517,7 @@
   },
   {
     "start": "202511230000",
-    "location": "KBSホール",
+    "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "red-elf"
   },
@@ -535,13 +535,13 @@
   },
   {
     "start": "202511290000",
-    "location": "サロンパスアリーナ",
+    "location": "サロンパスアリーナ（鳥栖市）",
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa"
   },
   {
     "start": "202511290000",
-    "location": "愛西市親水公園体育館",
+    "location": "垣見鉄工アリーナ",
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets"
   },
@@ -559,13 +559,13 @@
   },
   {
     "start": "202511300000",
-    "location": "サロンパスアリーナ",
+    "location": "サロンパスアリーナ（鳥栖市）",
     "homeTeam": "kyusyu",
     "awayTeam": "red-elf"
   },
   {
     "start": "202511300000",
-    "location": "愛西市親水公園体育館",
+    "location": "垣見鉄工アリーナ",
     "homeTeam": "top-nagoya",
     "awayTeam": "kyoto"
   },
@@ -613,7 +613,7 @@
   },
   {
     "start": "202512200000",
-    "location": "とびうめアリーナ",
+    "location": "とびうめアリーナ（大宰府市）",
     "homeTeam": "kyusyu",
     "awayTeam": "top-nagoya"
   },
@@ -631,7 +631,7 @@
   },
   {
     "start": "202512210000",
-    "location": "とびうめアリーナ",
+    "location": "とびうめアリーナ（大宰府市）",
     "homeTeam": "kyusyu",
     "awayTeam": "np-mallets"
   },
@@ -715,7 +715,7 @@
   },
   {
     "start": "202602070000",
-    "location": "右京地域体育館",
+    "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "top-nagoya"
   },
@@ -733,7 +733,7 @@
   },
   {
     "start": "202602080000",
-    "location": "右京地域体育館",
+    "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "red-elf"
   },
@@ -829,7 +829,7 @@
   },
   {
     "start": "202602280000",
-    "location": "KBSホール",
+    "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "kyusyu"
   },
@@ -847,7 +847,7 @@
   },
   {
     "start": "202603010000",
-    "location": "KBSホール",
+    "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
     "awayTeam": "ka-kanagawa"
   },
