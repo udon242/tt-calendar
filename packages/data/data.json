@@ -151,7 +151,7 @@
   },
   {
     "start": "202508301600",
-    "location": "パルコシティ",
+    "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
     "awayTeam": "km-tokyo"
   },
@@ -169,7 +169,7 @@
   },
   {
     "start": "202508311700",
-    "location": "パルコシティ",
+    "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
     "awayTeam": "okayama"
   },
@@ -349,7 +349,7 @@
   },
   {
     "start": "202510181700",
-    "location": "パルコシティ",
+    "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
     "awayTeam": "tt-saitama"
   },
@@ -367,7 +367,7 @@
   },
   {
     "start": "202510191700",
-    "location": "パルコシティ",
+    "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
     "awayTeam": "kanazawa"
   },
@@ -745,7 +745,7 @@
   },
   {
     "start": "202602141300",
-    "location": "那覇市民体育館",
+    "location": "飯塚市総合体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "shizuoka"
   },
@@ -775,13 +775,13 @@
   },
   {
     "start": "202602151700",
-    "location": "那覇市民体育館",
+    "location": "飯塚市総合体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "okayama"
   },
   {
     "start": "202602211300",
-    "location": "福田公園体育館",
+    "location": "倉敷福田公園",
     "homeTeam": "okayama",
     "awayTeam": "shizuoka"
   },
@@ -793,7 +793,7 @@
   },
   {
     "start": "202602221300",
-    "location": "福田公園体育館",
+    "location": "倉敷福田公園",
     "homeTeam": "okayama",
     "awayTeam": "km-tokyo"
   },
