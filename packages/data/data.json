@@ -11,7 +11,9 @@
     "start": "202507271400",
     "location": "代々木第二体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202508011900",
