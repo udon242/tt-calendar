@@ -640,28 +640,28 @@
     "awayTeam": "km-tokyo"
   },
   {
-    "start": "202512270000",
-    "location": "グランフロント大阪",
-    "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
-  },
-  {
     "start": "202512271200",
     "location": "貝塚コスモスシアター",
     "homeTeam": "red-elf",
     "awayTeam": "kyusyu"
   },
   {
-    "start": "202512280000",
+    "start": "202512271700",
     "location": "グランフロント大阪",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "shizuoka"
   },
   {
     "start": "202512281200",
     "location": "貝塚コスモスシアター",
     "homeTeam": "red-elf",
     "awayTeam": "top-nagoya"
+  },
+  {
+    "start": "202512281300",
+    "location": "グランフロント大阪",
+    "homeTeam": "ryukyu",
+    "awayTeam": "tt-saitama"
   },
   {
     "start": "202601101200",
