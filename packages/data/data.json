@@ -37,21 +37,23 @@
     "homeTeam": "tt-saitama",
     "awayTeam": "km-tokyo",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 4
   },
   {
     "start": "202508021500",
     "location": "宜野湾市立体育館",
     "homeTeam": "ryukyu",
     "awayTeam": "kanazawa",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202508021800",
     "location": "邦和みなとスポーツ&カルチャー（名古屋市）",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202508031300",
