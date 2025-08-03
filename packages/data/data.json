@@ -61,19 +61,23 @@
     "homeTeam": "ryukyu",
     "awayTeam": "shizuoka",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 4
   },
   {
     "start": "202508031300",
     "location": "邦和みなとスポーツ&カルチャー（名古屋市）",
     "homeTeam": "top-nagoya",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202508031400",
     "location": "浦和駒場体育館",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202508151800",
