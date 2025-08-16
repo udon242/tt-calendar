@@ -91,13 +91,17 @@
     "start": "202508161300",
     "location": "いしかわ総合スポーツセンター",
     "homeTeam": "kanazawa",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202508161300",
     "location": "大阪市住吉スポーツセンター",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202508171300",
