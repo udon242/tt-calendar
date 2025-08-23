@@ -133,21 +133,23 @@
     "homeTeam": "okayama",
     "awayTeam": "ryukyu",
     "homeScore": 0,
-    "awayScore": 3
+    "awayScore": 4
   },
   {
     "start": "202508231400",
     "location": "三島市民文化会館（ゆうゆうホール）",
     "homeTeam": "shizuoka",
     "awayTeam": "tt-saitama",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 3
   },
   {
     "start": "202508231700",
     "location": "平塚総合体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202508241100",
