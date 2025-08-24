@@ -164,8 +164,8 @@
     "location": "三島市民文化会館（ゆうゆうホール）",
     "homeTeam": "shizuoka",
     "awayTeam": "ryukyu",
-    "homeScore": 2,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202508241400",
@@ -173,13 +173,15 @@
     "homeTeam": "okayama",
     "awayTeam": "kanazawa",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 4
   },
   {
     "start": "202508241600",
     "location": "平塚総合体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202508301400",
