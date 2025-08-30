@@ -187,13 +187,17 @@
     "start": "202508301400",
     "location": "クラサス武道スポーツセンター（大分市）",
     "homeTeam": "kyusyu",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202508301500",
     "location": "スギ薬局知立福祉アリーナ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202508301600",
