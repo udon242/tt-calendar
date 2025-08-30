@@ -189,21 +189,23 @@
     "homeTeam": "kyusyu",
     "awayTeam": "kyoto",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202508301500",
     "location": "スギ薬局知立福祉アリーナ",
     "homeTeam": "top-nagoya",
     "awayTeam": "ka-kanagawa",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202508301600",
     "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202508311300",
