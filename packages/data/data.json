@@ -221,13 +221,15 @@
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202508311700",
     "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202509061300",
