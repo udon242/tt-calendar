@@ -235,13 +235,17 @@
     "start": "202509061300",
     "location": "池田市五月山体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202509061400",
     "location": "深谷ビッグタートル",
     "homeTeam": "tt-saitama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202509071300",
