@@ -251,13 +251,17 @@
     "start": "202509071300",
     "location": "池田市五月山体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202509071400",
     "location": "深谷ビッグタートル",
     "homeTeam": "tt-saitama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202509131200",
