@@ -277,7 +277,7 @@
     "homeTeam": "np-mallets",
     "awayTeam": "red-elf",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 4
   },
   {
     "start": "202509131500",
@@ -285,13 +285,15 @@
     "homeTeam": "shizuoka",
     "awayTeam": "tt-saitama",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 4
   },
   {
     "start": "202509131700",
     "location": "スカイアリーナ座間",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202509141100",
