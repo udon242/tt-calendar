@@ -267,7 +267,9 @@
     "start": "202509131200",
     "location": "スカイアリーナ座間",
     "homeTeam": "km-tokyo",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202509131400",
