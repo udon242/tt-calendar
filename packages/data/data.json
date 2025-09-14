@@ -299,7 +299,9 @@
     "start": "202509141100",
     "location": "スカイアリーナ座間",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202509141300",
