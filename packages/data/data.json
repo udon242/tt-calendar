@@ -316,14 +316,16 @@
     "location": "大田区総合体育館",
     "homeTeam": "np-mallets",
     "awayTeam": "kyusyu",
-    "homeScore": 2,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202509141600",
     "location": "スカイアリーナ座間",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 4,
+    "awayScore": 0
   },
   {
     "start": "202509201400",
