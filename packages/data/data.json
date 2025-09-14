@@ -300,20 +300,24 @@
     "location": "スカイアリーナ座間",
     "homeTeam": "km-tokyo",
     "awayTeam": "ryukyu",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202509141300",
     "location": "東京エレクトロン韮崎文化ホール",
     "homeTeam": "shizuoka",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202509141400",
     "location": "大田区総合体育館",
     "homeTeam": "np-mallets",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202509141600",
