@@ -339,7 +339,9 @@
     "start": "202509211400",
     "location": "よつ葉アリーナ十勝（帯広市）",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202510041300",
