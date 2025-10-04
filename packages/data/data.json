@@ -355,13 +355,17 @@
     "start": "202510041600",
     "location": "富士宮市民体育館",
     "homeTeam": "shizuoka",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202510041800",
     "location": "イオンモール岡山",
     "homeTeam": "kyoto",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202510051200",
