@@ -381,13 +381,15 @@
     "homeTeam": "shizuoka",
     "awayTeam": "ryukyu",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 3
   },
   {
     "start": "202510051700",
     "location": "イオンモール岡山",
     "homeTeam": "kyoto",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202510111100",
