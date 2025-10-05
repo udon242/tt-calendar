@@ -372,14 +372,16 @@
     "location": "イオンモール岡山",
     "homeTeam": "okayama",
     "awayTeam": "kanazawa",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202510051300",
     "location": "富士宮市民体育館",
     "homeTeam": "shizuoka",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 2
   },
   {
     "start": "202510051700",
