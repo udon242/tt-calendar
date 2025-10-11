@@ -396,14 +396,16 @@
     "location": "金沢市総合体育館",
     "homeTeam": "red-elf",
     "awayTeam": "kyoto",
-    "homeScore": 2,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202510111500",
     "location": "イオンモール豊川 サウスコート",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202510111700",
