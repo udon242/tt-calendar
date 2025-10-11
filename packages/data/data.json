@@ -404,14 +404,16 @@
     "location": "イオンモール豊川 サウスコート",
     "homeTeam": "top-nagoya",
     "awayTeam": "kyusyu",
-    "homeScore": 1,
+    "homeScore": 4,
     "awayScore": 0
   },
   {
     "start": "202510111700",
     "location": "金沢市総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202510121300",
