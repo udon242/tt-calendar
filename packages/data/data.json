@@ -420,7 +420,7 @@
     "location": "金沢市総合体育館",
     "homeTeam": "kanazawa",
     "awayTeam": "km-tokyo",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
@@ -429,13 +429,15 @@
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 3
   },
   {
     "start": "202510121600",
     "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202510131400",
