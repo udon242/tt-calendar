@@ -419,13 +419,17 @@
     "start": "202510121300",
     "location": "金沢市総合体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202510121400",
     "location": "イオンモール豊川 サウスコート",
     "homeTeam": "top-nagoya",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202510121600",
