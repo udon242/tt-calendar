@@ -443,7 +443,9 @@
     "start": "202510131400",
     "location": "山科地域体育館（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202510181100",
