@@ -451,7 +451,9 @@
     "start": "202510181100",
     "location": "代々木第二体育館",
     "homeTeam": "km-tokyo",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202510181600",
