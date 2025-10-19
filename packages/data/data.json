@@ -483,13 +483,17 @@
     "start": "202510191600",
     "location": "代々木第二体育館",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202510191700",
     "location": "サンエー浦添西海岸パルコシティ",
     "homeTeam": "ryukyu",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202510251400",
