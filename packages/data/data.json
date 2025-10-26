@@ -507,7 +507,9 @@
     "start": "202510261200",
     "location": "日立市池の川さくらアリーナ",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202511011300",
