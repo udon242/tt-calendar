@@ -515,19 +515,25 @@
     "start": "202511011300",
     "location": "津山総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202511011400",
     "location": "エミテラス所沢2F TOKOROZAWA e-CUBE",
     "homeTeam": "tt-saitama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 0,
+    "awayScore": 2
   },
   {
     "start": "202511011500",
     "location": "アスリートタウン延岡アリーナ",
     "homeTeam": "kyusyu",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202511021200",
