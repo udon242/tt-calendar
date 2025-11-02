@@ -539,7 +539,9 @@
     "start": "202511021200",
     "location": "アスリートタウン延岡アリーナ",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202511021300",
