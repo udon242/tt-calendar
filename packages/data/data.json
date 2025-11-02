@@ -541,19 +541,23 @@
     "homeTeam": "kyusyu",
     "awayTeam": "ka-kanagawa",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 4
   },
   {
     "start": "202511021300",
     "location": "津山総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202511021400",
     "location": "エミテラス所沢2F TOKOROZAWA e-CUBE",
     "homeTeam": "tt-saitama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202511081200",
