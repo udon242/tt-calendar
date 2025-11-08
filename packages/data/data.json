@@ -579,7 +579,9 @@
     "start": "202511081700",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202511091100",
