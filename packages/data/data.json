@@ -563,7 +563,9 @@
     "start": "202511081200",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202511081300",
