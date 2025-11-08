@@ -564,14 +564,16 @@
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "kyoto",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202511081300",
     "location": "鳥取県鳥取産業体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202511081700",
