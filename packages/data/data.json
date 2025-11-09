@@ -587,7 +587,9 @@
     "start": "202511091100",
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202511091400",
