@@ -588,14 +588,16 @@
     "location": "カルッツかわさき",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "np-mallets",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202511091400",
     "location": "鳥取県鳥取産業体育館",
     "homeTeam": "red-elf",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202511091600",
