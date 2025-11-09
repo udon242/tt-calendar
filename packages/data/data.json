@@ -596,14 +596,16 @@
     "location": "鳥取県鳥取産業体育館",
     "homeTeam": "red-elf",
     "awayTeam": "kyusyu",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 1
   },
   {
     "start": "202511091600",
     "location": "カルッツかわさき",
     "homeTeam": "km-tokyo",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202511141700",
