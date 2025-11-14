@@ -611,7 +611,9 @@
     "start": "202511141700",
     "location": "イオンモール白山",
     "homeTeam": "kanazawa",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202511151200",
