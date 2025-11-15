@@ -620,20 +620,24 @@
     "location": "イオンレイクタウン",
     "homeTeam": "okayama",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202511151300",
     "location": "イオンモール白山",
     "homeTeam": "kanazawa",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202511151500",
     "location": "感謝と挑戦のTYK体育館（多治見市）",
     "homeTeam": "top-nagoya",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202511151700",
