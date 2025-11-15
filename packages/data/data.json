@@ -619,7 +619,9 @@
     "start": "202511151200",
     "location": "イオンレイクタウン",
     "homeTeam": "okayama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202511151300",
