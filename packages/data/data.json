@@ -651,13 +651,17 @@
     "start": "202511161300",
     "location": "イオンモール白山",
     "homeTeam": "kanazawa",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202511161400",
     "location": "感謝と挑戦のTYK体育館（多治見市）",
     "homeTeam": "top-nagoya",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202511221300",
