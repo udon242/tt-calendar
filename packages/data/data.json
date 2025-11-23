@@ -683,7 +683,9 @@
     "start": "202511231200",
     "location": "KBSホール（京都市）",
     "homeTeam": "kyoto",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202511231300",
