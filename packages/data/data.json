@@ -700,28 +700,32 @@
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
     "awayTeam": "ryukyu",
-    "homeScore": 1,
-    "awayScore": 1
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "start": "202511291500",
     "location": "垣見鉄工アリーナ",
     "homeTeam": "top-nagoya",
     "awayTeam": "np-mallets",
-    "homeScore": 1,
-    "awayScore": 0
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "start": "202511291600",
     "location": "アミューズ豊田",
     "homeTeam": "shizuoka",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202511291800",
     "location": "サロンパスアリーナ（鳥栖市）",
     "homeTeam": "kyusyu",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202511301200",
