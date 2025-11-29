@@ -699,13 +699,17 @@
     "start": "202511291400",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202511291500",
     "location": "垣見鉄工アリーナ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202511291600",
