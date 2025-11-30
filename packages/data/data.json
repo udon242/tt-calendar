@@ -731,7 +731,9 @@
     "start": "202511301200",
     "location": "アミューズ豊田",
     "homeTeam": "shizuoka",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202511301300",
