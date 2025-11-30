@@ -732,26 +732,32 @@
     "location": "アミューズ豊田",
     "homeTeam": "shizuoka",
     "awayTeam": "km-tokyo",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202511301300",
     "location": "サロンパスアリーナ（鳥栖市）",
     "homeTeam": "kyusyu",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202511301400",
     "location": "和光市民文化センターサンアゼリア",
     "homeTeam": "tt-saitama",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202511301500",
     "location": "垣見鉄工アリーナ",
     "homeTeam": "top-nagoya",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202512131300",
