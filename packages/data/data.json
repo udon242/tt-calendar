@@ -779,13 +779,17 @@
     "start": "202512141300",
     "location": "敦賀市総合運動公園体育館",
     "homeTeam": "kanazawa",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "start": "202512141400",
     "location": "YMITアリーナ（くさつシティアリーナ）",
     "homeTeam": "np-mallets",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202512191800",
