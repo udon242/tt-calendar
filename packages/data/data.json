@@ -795,7 +795,9 @@
     "start": "202512191800",
     "location": "バルドラール浦安アリーナ",
     "homeTeam": "red-elf",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "start": "202512201300",
