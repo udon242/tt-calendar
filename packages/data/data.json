@@ -803,19 +803,25 @@
     "start": "202512201300",
     "location": "とびうめアリーナ（太宰府市）",
     "homeTeam": "kyusyu",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 3
   },
   {
     "start": "202512201400",
     "location": "バルドラール浦安アリーナ",
     "homeTeam": "red-elf",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "start": "202512201500",
     "location": "宜野湾市立体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "okayama"
+    "awayTeam": "okayama",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202512211200",
