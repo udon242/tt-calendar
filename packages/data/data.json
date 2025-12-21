@@ -827,7 +827,9 @@
     "start": "202512211200",
     "location": "バルドラール浦安アリーナ",
     "homeTeam": "red-elf",
-    "awayTeam": "ka-kanagawa"
+    "awayTeam": "ka-kanagawa",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202512211300",
