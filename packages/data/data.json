@@ -828,20 +828,24 @@
     "location": "バルドラール浦安アリーナ",
     "homeTeam": "red-elf",
     "awayTeam": "ka-kanagawa",
-    "homeScore": 0,
-    "awayScore": 1
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202512211300",
     "location": "とびうめアリーナ（太宰府市）",
     "homeTeam": "kyusyu",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "start": "202512211400",
     "location": "宜野湾市立体育館",
     "homeTeam": "ryukyu",
-    "awayTeam": "km-tokyo"
+    "awayTeam": "km-tokyo",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202512271200",
