@@ -851,7 +851,9 @@
     "start": "202512271200",
     "location": "貝塚コスモスシアター",
     "homeTeam": "red-elf",
-    "awayTeam": "kyusyu"
+    "awayTeam": "kyusyu",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202512271700",
