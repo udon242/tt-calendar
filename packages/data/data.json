@@ -859,7 +859,9 @@
     "start": "202512271700",
     "location": "グランフロント大阪 北館1階 ナレッジプラザ",
     "homeTeam": "ryukyu",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "start": "202512281200",
