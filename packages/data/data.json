@@ -867,13 +867,17 @@
     "start": "202512281200",
     "location": "貝塚コスモスシアター",
     "homeTeam": "red-elf",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202512281300",
     "location": "グランフロント大阪 北館1階 ナレッジプラザ",
     "homeTeam": "ryukyu",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202601101200",
