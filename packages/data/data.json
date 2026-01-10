@@ -883,7 +883,9 @@
     "start": "202601101200",
     "location": "横浜国際プール",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "np-mallets"
+    "awayTeam": "np-mallets",
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "start": "202601101300",
