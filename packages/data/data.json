@@ -885,13 +885,15 @@
     "homeTeam": "ka-kanagawa",
     "awayTeam": "np-mallets",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 4
   },
   {
     "start": "202601101300",
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "kanazawa"
+    "awayTeam": "kanazawa",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202601101700",
