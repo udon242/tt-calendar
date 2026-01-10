@@ -892,14 +892,16 @@
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
     "awayTeam": "kanazawa",
-    "homeScore": 2,
+    "homeScore": 3,
     "awayScore": 2
   },
   {
     "start": "202601101700",
     "location": "横浜国際プール",
     "homeTeam": "km-tokyo",
-    "awayTeam": "tt-saitama"
+    "awayTeam": "tt-saitama",
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "start": "202601111100",
