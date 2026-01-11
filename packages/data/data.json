@@ -916,20 +916,24 @@
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
     "awayTeam": "shizuoka",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 3
   },
   {
     "start": "202601111600",
     "location": "横浜国際プール",
     "homeTeam": "km-tokyo",
-    "awayTeam": "ryukyu"
+    "awayTeam": "ryukyu",
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202601111800",
     "location": "福岡市民ホール",
     "homeTeam": "kyusyu",
-    "awayTeam": "kyoto"
+    "awayTeam": "kyoto",
+    "homeScore": 1,
+    "awayScore": 0
   },
   {
     "start": "202601121300",
