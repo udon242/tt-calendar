@@ -907,7 +907,9 @@
     "start": "202601111100",
     "location": "横浜国際プール",
     "homeTeam": "ka-kanagawa",
-    "awayTeam": "red-elf"
+    "awayTeam": "red-elf",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202601111300",
