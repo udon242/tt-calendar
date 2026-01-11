@@ -908,14 +908,16 @@
     "location": "横浜国際プール",
     "homeTeam": "ka-kanagawa",
     "awayTeam": "red-elf",
-    "homeScore": 0,
-    "awayScore": 0
+    "homeScore": 2,
+    "awayScore": 2
   },
   {
     "start": "202601111300",
     "location": "笠岡総合体育館",
     "homeTeam": "okayama",
-    "awayTeam": "shizuoka"
+    "awayTeam": "shizuoka",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202601111600",
