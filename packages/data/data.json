@@ -939,7 +939,9 @@
     "start": "202601121300",
     "location": "福岡市民ホール",
     "homeTeam": "kyusyu",
-    "awayTeam": "top-nagoya"
+    "awayTeam": "top-nagoya",
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "start": "202602071400",
